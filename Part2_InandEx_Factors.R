@@ -309,6 +309,8 @@ AIC(p3,p9,p10)
 #best mode for COD: includes body site, fine PMI, and COD 
 
 #figures
+betadisp_mod_df %>% group_by(Sample_Area) %>% summarize_at(c('distances'), funs(mean,sd))
+
 betadisp_mod_df$Sample_Area <- factor(betadisp_mod_df$Sample_Area, levels = c('Eyes', 'Ears', 'Nose',
                                                                               'Rectum', 'Mouth'))
 a <- ggplot(betadisp_mod_df, aes(x=Sample_Area, y=distances, color = Sample_Area)) + 
@@ -335,6 +337,7 @@ c <- ggplot(betadisp_mod_df, aes(x=FinePMI, y=distances, fill = FinePMI)) +
                                           axis.text.x=element_blank())
 
 c
+betadisp_mod_df %>% group_by(MoD) %>% summarize_at(c('distances'), funs(mean,sd))
 
 betadisp_mod_df$MoD <- factor(betadisp_mod_df$MoD, levels = c('Natural', 'Suicide', 
                                                               'Accident', 'Homicide'))
@@ -345,6 +348,8 @@ d <- ggplot(betadisp_mod_df, aes(x=MoD, y=distances, color = MoD)) +
                                           axis.text.x=element_blank())
 
 d
+
+betadisp_cod_df %>% group_by(Sample_Area) %>% summarize_at(c('distances'), funs(mean,sd))
 
 betadisp_cod_df$Sample_Area <- factor(betadisp_cod_df$Sample_Area, levels = c('Eyes', 'Ears', 'Nose',
                                                                               'Rectum', 'Mouth'))
@@ -369,6 +374,7 @@ f <- ggplot(betadisp_cod_df, aes(x=FinePMI, y=distances, fill = FinePMI)) +
                                           axis.text.x=element_blank())
 
 f
+betadisp_cod_df %>% group_by(CoD_Simple2) %>% summarize_at(c('distances'), funs(mean,sd))
 
 betadisp_cod_df$CoD_Simple2 <- factor(betadisp_cod_df$CoD_Simple2, levels = c('Cardio', 'Other', 
                                                               'Drug', 'BFT', 'Gunshot',
