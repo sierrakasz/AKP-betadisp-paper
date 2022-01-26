@@ -1,0 +1,883 @@
+,Pack_ID,SampleID,Country,Sample_Area,Sex,Race,Age,Age_bin_10,Age_bin_25,Age_bin_35,Event_Location,Season,BroadPMI,FinePMI,BMI,Weight_Status,MoD,Description,Causes_of_Death,CoD_Simple,Violent,CoD_Simple2,Suicide
+810,2015-S72,WCME_715,USA,Eyes,Male,White,79,78-87,68-92,53-88,Hospital,Winter,Less48,25-48,25.2,Overweight,Accident,WCME_715,DROWNING,Other,Violent,Asphyx,Non
+811,2015-S72,WCME_719,USA,Rectum,Male,White,79,78-87,68-92,53-88,Hospital,Winter,Less48,25-48,25.2,Overweight,Accident,WCME_719,DROWNING,Other,Violent,Asphyx,Non
+812,2015-S72,WCME_716,USA,Nose,Male,White,79,78-87,68-92,53-88,Hospital,Winter,Less48,25-48,25.2,Overweight,Accident,WCME_716,DROWNING,Other,Violent,Asphyx,Non
+813,2015-S72,WCME_714,USA,Ears,Male,White,79,78-87,68-92,53-88,Hospital,Winter,Less48,25-48,25.2,Overweight,Accident,WCME_714,DROWNING,Other,Violent,Asphyx,Non
+814,2015-S72,WCME_717,USA,Mouth,Male,White,79,78-87,68-92,53-88,Hospital,Winter,Less48,25-48,25.2,Overweight,Accident,WCME_717,DROWNING,Other,Violent,Asphyx,Non
+690,2015-S514,WCME_1015,USA,Rectum,Female,White,18,18-27,18-42,18-52,Hospital,Winter,Less48,Less24,22,Normal Weight,Accident,WCME_1015,MULTIPLE INJURIES,Other,Violent,BFT,Non
+691,2015-S514,WCME_1234,USA,Eyes,Female,White,18,18-27,18-42,18-52,Hospital,Winter,Less48,Less24,22,Normal Weight,Accident,WCME_1234,MULTIPLE INJURIES,Other,Violent,BFT,Non
+692,2015-S514,WCME_1347,USA,Ears,Female,White,18,18-27,18-42,18-52,Hospital,Winter,Less48,Less24,22,Normal Weight,Accident,WCME_1347,MULTIPLE INJURIES,Other,Violent,BFT,Non
+693,2015-S514,WCME_1155,USA,Nose,Female,White,18,18-27,18-42,18-52,Hospital,Winter,Less48,Less24,22,Normal Weight,Accident,WCME_1155,MULTIPLE INJURIES,Other,Violent,BFT,Non
+694,2015-S514,WCME_963,USA,Mouth,Female,White,18,18-27,18-42,18-52,Hospital,Winter,Less48,Less24,22,Normal Weight,Accident,WCME_963,MULTIPLE INJURIES,Other,Violent,BFT,Non
+731,2015-S570,WCME_1371,USA,Ears,Female,Black,20,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,26.1,Overweight,Accident,WCME_1371,MULTIPLE BLUNT FORCE INJURIES,Other,Violent,BFT,Non
+732,2015-S570,WCME_1076,USA,Eyes,Female,Black,20,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,26.1,Overweight,Accident,WCME_1076,MULTIPLE BLUNT FORCE INJURIES,Other,Violent,BFT,Non
+733,2015-S570,WCME_964,USA,Nose,Female,Black,20,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,26.1,Overweight,Accident,WCME_964,MULTIPLE BLUNT FORCE INJURIES,Other,Violent,BFT,Non
+734,2015-S570,WCME_1297,USA,Mouth,Female,Black,20,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,26.1,Overweight,Accident,WCME_1297,MULTIPLE BLUNT FORCE INJURIES,Other,Violent,BFT,Non
+587,2015-S419,WCME_1110,USA,Nose,Female,Black,26,18-27,18-42,18-52,Vehicular,Autumn,Less48,Less24,30.3,Obese,Accident,WCME_1110,MULTIPLE BLUNT FORCE INJURIES,Other,Violent,BFT,Non
+588,2015-S419,WCME_1279,USA,Rectum,Female,Black,26,18-27,18-42,18-52,Vehicular,Autumn,Less48,Less24,30.3,Obese,Accident,WCME_1279,MULTIPLE BLUNT FORCE INJURIES,Other,Violent,BFT,Non
+589,2015-S419,WCME_1374,USA,Eyes,Female,Black,26,18-27,18-42,18-52,Vehicular,Autumn,Less48,Less24,30.3,Obese,Accident,WCME_1374,MULTIPLE BLUNT FORCE INJURIES,Other,Violent,BFT,Non
+590,2015-S419,WCME_1228,USA,Mouth,Female,Black,26,18-27,18-42,18-52,Vehicular,Autumn,Less48,Less24,30.3,Obese,Accident,WCME_1228,MULTIPLE BLUNT FORCE INJURIES,Other,Violent,BFT,Non
+153,2014-S31,WCME_138,USA,Eyes,Male,Black,27,18-27,18-42,18-52,Outdoors,Spring,Less48,Less24,33.2,Obese,Accident,WCME_138,MULTIPLE INJURIES ,Other,Violent,BFT,Non
+154,2014-S31,WCME_137,USA,Rectum,Male,Black,27,18-27,18-42,18-52,Outdoors,Spring,Less48,Less24,33.2,Obese,Accident,WCME_137,MULTIPLE INJURIES ,Other,Violent,BFT,Non
+155,2014-S31,WCME_136,USA,Ears,Male,Black,27,18-27,18-42,18-52,Outdoors,Spring,Less48,Less24,33.2,Obese,Accident,WCME_136,MULTIPLE INJURIES ,Other,Violent,BFT,Non
+156,2014-S31,WCME_141,USA,Mouth,Male,Black,27,18-27,18-42,18-52,Outdoors,Spring,Less48,Less24,33.2,Obese,Accident,WCME_141,MULTIPLE INJURIES ,Other,Violent,BFT,Non
+451,2015-S196,WCME_874,USA,Rectum,Female,Black,27,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,unknown,Unknown,Accident,WCME_874,MULTIPLE INJURIES,Other,Violent,BFT,Non
+452,2015-S196,WCME_872,USA,Mouth,Female,Black,27,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,unknown,Unknown,Accident,WCME_872,MULTIPLE INJURIES,Other,Violent,BFT,Non
+453,2015-S196,WCME_869,USA,Ears,Female,Black,27,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,unknown,Unknown,Accident,WCME_869,MULTIPLE INJURIES,Other,Violent,BFT,Non
+454,2015-S196,WCME_871,USA,Nose,Female,Black,27,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,unknown,Unknown,Accident,WCME_871,MULTIPLE INJURIES,Other,Violent,BFT,Non
+624,2015-S464,WCME_1045,USA,Mouth,Female,White,38,38-47,18-42,18-52,Vehicular,Autumn,Less48,Less24,67.7,Super Obese,Accident,WCME_1045,MULTIPLE INJURIES,Other,Violent,BFT,Non
+625,2015-S464,WCME_1373,USA,Ears,Female,White,38,38-47,18-42,18-52,Vehicular,Autumn,Less48,Less24,67.7,Super Obese,Accident,WCME_1373,MULTIPLE INJURIES,Other,Violent,BFT,Non
+626,2015-S464,WCME_1218,USA,Nose,Female,White,38,38-47,18-42,18-52,Vehicular,Autumn,Less48,Less24,67.7,Super Obese,Accident,WCME_1218,MULTIPLE INJURIES,Other,Violent,BFT,Non
+627,2015-S464,WCME_1308,USA,Eyes,Female,White,38,38-47,18-42,18-52,Vehicular,Autumn,Less48,Less24,67.7,Super Obese,Accident,WCME_1308,MULTIPLE INJURIES,Other,Violent,BFT,Non
+628,2015-S464,WCME_1182,USA,Rectum,Female,White,38,38-47,18-42,18-52,Vehicular,Autumn,Less48,Less24,67.7,Super Obese,Accident,WCME_1182,MULTIPLE INJURIES,Other,Violent,BFT,Non
+639,2015-S479,WCME_1075,USA,Mouth,Female,Black,42,38-47,18-42,18-52,Hospital,Autumn,Less48,Less24,24.5,Normal Weight,Accident,WCME_1075,MULTIPLE INJURIES,Other,Violent,BFT,Non
+640,2015-S479,WCME_1358,USA,Eyes,Female,Black,42,38-47,18-42,18-52,Hospital,Autumn,Less48,Less24,24.5,Normal Weight,Accident,WCME_1358,MULTIPLE INJURIES,Other,Violent,BFT,Non
+641,2015-S479,WCME_1081,USA,Ears,Female,Black,42,38-47,18-42,18-52,Hospital,Autumn,Less48,Less24,24.5,Normal Weight,Accident,WCME_1081,MULTIPLE INJURIES,Other,Violent,BFT,Non
+642,2015-S479,WCME_1312,USA,Nose,Female,Black,42,38-47,18-42,18-52,Hospital,Autumn,Less48,Less24,24.5,Normal Weight,Accident,WCME_1312,MULTIPLE INJURIES,Other,Violent,BFT,Non
+643,2015-S479,WCME_1248,USA,Rectum,Female,Black,42,38-47,18-42,18-52,Hospital,Autumn,Less48,Less24,24.5,Normal Weight,Accident,WCME_1248,MULTIPLE INJURIES,Other,Violent,BFT,Non
+277,2014-S74,WCME_311,USA,Mouth,Male,Black,53,48-57,43-67,53-88,Outdoors,Summer,Less48,25-48,32.4,Obese,Accident,WCME_311,MULTIPLE INJURIES,Other,Violent,BFT,Non
+278,2014-S74,WCME_308,USA,Rectum,Male,Black,53,48-57,43-67,53-88,Outdoors,Summer,Less48,25-48,32.4,Obese,Accident,WCME_308,MULTIPLE INJURIES,Other,Violent,BFT,Non
+279,2014-S74,WCME_309,USA,Eyes,Male,Black,53,48-57,43-67,53-88,Outdoors,Summer,Less48,25-48,32.4,Obese,Accident,WCME_309,MULTIPLE INJURIES,Other,Violent,BFT,Non
+280,2014-S74,WCME_307,USA,Ears,Male,Black,53,48-57,43-67,53-88,Outdoors,Summer,Less48,25-48,32.4,Obese,Accident,WCME_307,MULTIPLE INJURIES,Other,Violent,BFT,Non
+281,2014-S74,WCME_310,USA,Nose,Male,Black,53,48-57,43-67,53-88,Outdoors,Summer,Less48,25-48,32.4,Obese,Accident,WCME_310,MULTIPLE INJURIES,Other,Violent,BFT,Non
+530,2015-S31,WCME_1050,USA,Mouth,Female,White,61,58-67,43-67,53-88,Hospital,Spring,Less48,25-48,19.8,Normal Weight,Accident,WCME_1050,blunt force impact to head sustained due a fall,Other,Violent,BFT,Non
+531,2015-S31,WCME_1183,USA,Eyes,Female,White,61,58-67,43-67,53-88,Hospital,Spring,Less48,25-48,19.8,Normal Weight,Accident,WCME_1183,blunt force impact to head sustained due a fall,Other,Violent,BFT,Non
+532,2015-S31,WCME_1219,USA,Nose,Female,White,61,58-67,43-67,53-88,Hospital,Spring,Less48,25-48,19.8,Normal Weight,Accident,WCME_1219,blunt force impact to head sustained due a fall,Other,Violent,BFT,Non
+533,2015-S31,WCME_1220,USA,Rectum,Female,White,61,58-67,43-67,53-88,Hospital,Spring,Less48,25-48,19.8,Normal Weight,Accident,WCME_1220,blunt force impact to head sustained due a fall,Other,Violent,BFT,Non
+140,2014-S28,WCME_131,USA,Rectum,Female,Black,71,68-77,68-92,53-88,Outdoors,Spring,Less48,Less24,30,Obese,Accident,WCME_131,MULTIPLE INJURIES ,Other,Violent,BFT,Non
+141,2014-S28,WCME_134,USA,Nose,Female,Black,71,68-77,68-92,53-88,Outdoors,Spring,Less48,Less24,30,Obese,Accident,WCME_134,MULTIPLE INJURIES ,Other,Violent,BFT,Non
+142,2014-S28,WCME_130,USA,Ears,Female,Black,71,68-77,68-92,53-88,Outdoors,Spring,Less48,Less24,30,Obese,Accident,WCME_130,MULTIPLE INJURIES ,Other,Violent,BFT,Non
+143,2014-S28,WCME_132,USA,Eyes,Female,Black,71,68-77,68-92,53-88,Outdoors,Spring,Less48,Less24,30,Obese,Accident,WCME_132,MULTIPLE INJURIES ,Other,Violent,BFT,Non
+144,2014-S28,WCME_135,USA,Mouth,Female,Black,71,68-77,68-92,53-88,Outdoors,Spring,Less48,Less24,30,Obese,Accident,WCME_135,MULTIPLE INJURIES ,Other,Violent,BFT,Non
+272,2014-S71,WCME_301,USA,Rectum,Female,Black,19,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,22.3,Normal Weight,Accident,WCME_301,HEROIN TOXICITY,Drug,Non,Drug,Non
+273,2014-S71,WCME_302,USA,Eyes,Female,Black,19,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,22.3,Normal Weight,Accident,WCME_302,HEROIN TOXICITY,Drug,Non,Drug,Non
+274,2014-S71,WCME_300,USA,Ears,Female,Black,19,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,22.3,Normal Weight,Accident,WCME_300,HEROIN TOXICITY,Drug,Non,Drug,Non
+275,2014-S71,WCME_305,USA,Mouth,Female,Black,19,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,22.3,Normal Weight,Accident,WCME_305,HEROIN TOXICITY,Drug,Non,Drug,Non
+276,2014-S71,WCME_304,USA,Nose,Female,Black,19,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,22.3,Normal Weight,Accident,WCME_304,HEROIN TOXICITY,Drug,Non,Drug,Non
+202,2014-S43,WCME_204,USA,Rectum,Female,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,25-48,25.2,Overweight,Accident,WCME_204,COCAINE TOXICITY,Drug,Non,Drug,Non
+203,2014-S43,WCME_208,USA,Mouth,Female,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,25-48,25.2,Overweight,Accident,WCME_208,COCAINE TOXICITY,Drug,Non,Drug,Non
+204,2014-S43,WCME_207,USA,Nose,Female,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,25-48,25.2,Overweight,Accident,WCME_207,COCAINE TOXICITY,Drug,Non,Drug,Non
+205,2014-S43,WCME_205,USA,Mouth,Female,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,25-48,25.2,Overweight,Accident,WCME_205,COCAINE TOXICITY,Drug,Non,Drug,Non
+408,2015-S17,WCME_546,USA,Mouth,Male,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,35.9,Severe Obesity,Accident,WCME_546,HEROIN TOXICITY,Drug,Non,Drug,Non
+409,2015-S17,WCME_543,USA,Ears,Male,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,35.9,Severe Obesity,Accident,WCME_543,HEROIN TOXICITY,Drug,Non,Drug,Non
+410,2015-S17,WCME_548,USA,Rectum,Male,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,35.9,Severe Obesity,Accident,WCME_548,HEROIN TOXICITY,Drug,Non,Drug,Non
+411,2015-S17,WCME_545,USA,Nose,Male,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,35.9,Severe Obesity,Accident,WCME_545,HEROIN TOXICITY,Drug,Non,Drug,Non
+412,2015-S17,WCME_544,USA,Eyes,Male,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,35.9,Severe Obesity,Accident,WCME_544,HEROIN TOXICITY,Drug,Non,Drug,Non
+484,2015-S209,WCME_911,USA,Mouth,Male,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,21.9,Normal Weight,Accident,WCME_911,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+485,2015-S209,WCME_913,USA,Rectum,Male,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,21.9,Normal Weight,Accident,WCME_913,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+486,2015-S209,WCME_909,USA,Eyes,Male,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,21.9,Normal Weight,Accident,WCME_909,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+487,2015-S209,WCME_910,USA,Nose,Male,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,21.9,Normal Weight,Accident,WCME_910,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+488,2015-S209,WCME_908,USA,Ears,Male,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,21.9,Normal Weight,Accident,WCME_908,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+557,2015-S375,WCME_1299,USA,Rectum,Female,White,23,18-27,18-42,18-52,Indoors,Summer,Less48,Less24,23,Normal Weight,Accident,WCME_1299,FENTANYL AND HEROIN TOXICITY,Drug,Non,Drug,Non
+558,2015-S375,WCME_1005,USA,Eyes,Female,White,23,18-27,18-42,18-52,Indoors,Summer,Less48,Less24,23,Normal Weight,Accident,WCME_1005,FENTANYL AND HEROIN TOXICITY,Drug,Non,Drug,Non
+559,2015-S375,WCME_1429,USA,Ears,Female,White,23,18-27,18-42,18-52,Indoors,Summer,Less48,Less24,23,Normal Weight,Accident,WCME_1429,FENTANYL AND HEROIN TOXICITY,Drug,Non,Drug,Non
+560,2015-S375,WCME_1315,USA,Nose,Female,White,23,18-27,18-42,18-52,Indoors,Summer,Less48,Less24,23,Normal Weight,Accident,WCME_1315,FENTANYL AND HEROIN TOXICITY,Drug,Non,Drug,Non
+561,2015-S375,WCME_1241,USA,Mouth,Female,White,23,18-27,18-42,18-52,Indoors,Summer,Less48,Less24,23,Normal Weight,Accident,WCME_1241,FENTANYL AND HEROIN TOXICITY,Drug,Non,Drug,Non
+10,2014-S106,WCME_403,USA,Mouth,Female,White,24,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,33.1,Obese,Accident,WCME_403,MULTIPLE DRUG ,Drug,Non,Drug,Non
+11,2014-S106,WCME_402,USA,Nose,Female,White,24,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,33.1,Obese,Accident,WCME_402,MULTIPLE DRUG ,Drug,Non,Drug,Non
+12,2014-S106,WCME_400,USA,Eyes,Female,White,24,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,33.1,Obese,Accident,WCME_400,MULTIPLE DRUG ,Drug,Non,Drug,Non
+13,2014-S106,WCME_398,USA,Ears,Female,White,24,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,33.1,Obese,Accident,WCME_398,MULTIPLE DRUG ,Drug,Non,Drug,Non
+14,2014-S106,WCME_399,USA,Rectum,Female,White,24,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,33.1,Obese,Accident,WCME_399,MULTIPLE DRUG ,Drug,Non,Drug,Non
+312,2014-S83,WCME_351,USA,Rectum,Male,White,24,18-27,18-42,18-52,Outdoors,Summer,Less48,25-48,26.7,Overweight,Accident,WCME_351,MULTIPLE DRUG TOXICITY (heroin and fentany),Drug,Non,Drug,Non
+313,2014-S83,WCME_355,USA,Mouth,Male,White,24,18-27,18-42,18-52,Outdoors,Summer,Less48,25-48,26.7,Overweight,Accident,WCME_355,MULTIPLE DRUG TOXICITY (heroin and fentany),Drug,Non,Drug,Non
+314,2014-S83,WCME_350,USA,Ears,Male,White,24,18-27,18-42,18-52,Outdoors,Summer,Less48,25-48,26.7,Overweight,Accident,WCME_350,MULTIPLE DRUG TOXICITY (heroin and fentany),Drug,Non,Drug,Non
+315,2014-S83,WCME_352,USA,Eyes,Male,White,24,18-27,18-42,18-52,Outdoors,Summer,Less48,25-48,26.7,Overweight,Accident,WCME_352,MULTIPLE DRUG TOXICITY (heroin and fentany),Drug,Non,Drug,Non
+316,2014-S83,WCME_354,USA,Nose,Male,White,24,18-27,18-42,18-52,Outdoors,Summer,Less48,25-48,26.7,Overweight,Accident,WCME_354,MULTIPLE DRUG TOXICITY (heroin and fentany),Drug,Non,Drug,Non
+843,2015-S88,WCME_772,USA,Mouth,Female,White,24,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,43.9,Morbid Obesity,Accident,WCME_772,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+844,2015-S88,WCME_773,USA,Rectum,Female,White,24,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,43.9,Morbid Obesity,Accident,WCME_773,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+845,2015-S88,WCME_769,USA,Ears,Female,White,24,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,43.9,Morbid Obesity,Accident,WCME_769,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+846,2015-S88,WCME_770,USA,Eyes,Female,White,24,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,43.9,Morbid Obesity,Accident,WCME_770,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+847,2015-S88,WCME_771,USA,Nose,Female,White,24,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,43.9,Morbid Obesity,Accident,WCME_771,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+78,2014-S141,WCME_465,USA,Ears,Female,White,27,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,26,Overweight,Accident,WCME_465,MULTIPLE DRUG INTOXICATION,Drug,Non,Drug,Non
+79,2014-S141,WCME_470,USA,Mouth,Female,White,27,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,26,Overweight,Accident,WCME_470,MULTIPLE DRUG INTOXICATION,Drug,Non,Drug,Non
+80,2014-S141,WCME_466,USA,Rectum,Female,White,27,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,26,Overweight,Accident,WCME_466,MULTIPLE DRUG INTOXICATION,Drug,Non,Drug,Non
+81,2014-S141,WCME_469,USA,Nose,Female,White,27,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,26,Overweight,Accident,WCME_469,MULTIPLE DRUG INTOXICATION,Drug,Non,Drug,Non
+82,2014-S141,WCME_467,USA,Eyes,Female,White,27,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,26,Overweight,Accident,WCME_467,MULTIPLE DRUG INTOXICATION,Drug,Non,Drug,Non
+369,2015-S14,WCME_529,USA,Nose,Female,White,27,18-27,18-42,18-52,Indoors,Winter,More48,49-72,20.4,Normal Weight,Accident,WCME_529,OPIATE USE,Drug,Non,Drug,Non
+370,2015-S14,WCME_527,USA,Ears,Female,White,27,18-27,18-42,18-52,Indoors,Winter,More48,49-72,20.4,Normal Weight,Accident,WCME_527,OPIATE USE,Drug,Non,Drug,Non
+371,2015-S14,WCME_528,USA,Eyes,Female,White,27,18-27,18-42,18-52,Indoors,Winter,More48,49-72,20.4,Normal Weight,Accident,WCME_528,OPIATE USE,Drug,Non,Drug,Non
+372,2015-S14,WCME_532,USA,Rectum,Female,White,27,18-27,18-42,18-52,Indoors,Winter,More48,49-72,20.4,Normal Weight,Accident,WCME_532,OPIATE USE,Drug,Non,Drug,Non
+373,2015-S14,WCME_530,USA,Mouth,Female,White,27,18-27,18-42,18-52,Indoors,Winter,More48,49-72,20.4,Normal Weight,Accident,WCME_530,OPIATE USE,Drug,Non,Drug,Non
+35,2014-S118,WCME_435,USA,Mouth,Female,White,28,28-37,18-42,18-52,Indoors,Summer,Less48,Less24,24,Normal Weight,Accident,WCME_435,"COCAINE, HEROIN ",Drug,Non,Drug,Non
+36,2014-S118,WCME_432,USA,Eyes,Female,White,28,28-37,18-42,18-52,Indoors,Summer,Less48,Less24,24,Normal Weight,Accident,WCME_432,"COCAINE, HEROIN ",Drug,Non,Drug,Non
+37,2014-S118,WCME_434,USA,Nose,Female,White,28,28-37,18-42,18-52,Indoors,Summer,Less48,Less24,24,Normal Weight,Accident,WCME_434,"COCAINE, HEROIN ",Drug,Non,Drug,Non
+38,2014-S118,WCME_431,USA,Rectum,Female,White,28,28-37,18-42,18-52,Indoors,Summer,Less48,Less24,24,Normal Weight,Accident,WCME_431,"COCAINE, HEROIN ",Drug,Non,Drug,Non
+39,2014-S118,WCME_430,USA,Ears,Female,White,28,28-37,18-42,18-52,Indoors,Summer,Less48,Less24,24,Normal Weight,Accident,WCME_430,"COCAINE, HEROIN ",Drug,Non,Drug,Non
+825,2015-S79,WCME_746,USA,Eyes,Male,White,28,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,21.7,Normal Weight,Accident,WCME_746,HEROIN TOXICITY,Drug,Non,Drug,Non
+826,2015-S79,WCME_748,USA,Mouth,Male,White,28,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,21.7,Normal Weight,Accident,WCME_748,HEROIN TOXICITY,Drug,Non,Drug,Non
+827,2015-S79,WCME_745,USA,Ears,Male,White,28,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,21.7,Normal Weight,Accident,WCME_745,HEROIN TOXICITY,Drug,Non,Drug,Non
+828,2015-S79,WCME_747,USA,Nose,Male,White,28,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,21.7,Normal Weight,Accident,WCME_747,HEROIN TOXICITY,Drug,Non,Drug,Non
+829,2015-S79,WCME_750,USA,Rectum,Male,White,28,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,21.7,Normal Weight,Accident,WCME_750,HEROIN TOXICITY,Drug,Non,Drug,Non
+337,2014-S91,WCME_389,USA,Mouth,Male,White,31,28-37,18-42,18-52,Indoors,Summer,Less48,25-48,28.5,Overweight,Accident,WCME_389,HEROIN TOXICITY,Drug,Non,Drug,Non
+338,2014-S91,WCME_388,USA,Nose,Male,White,31,28-37,18-42,18-52,Indoors,Summer,Less48,25-48,28.5,Overweight,Accident,WCME_388,HEROIN TOXICITY,Drug,Non,Drug,Non
+339,2014-S91,WCME_386,USA,Eyes,Male,White,31,28-37,18-42,18-52,Indoors,Summer,Less48,25-48,28.5,Overweight,Accident,WCME_386,HEROIN TOXICITY,Drug,Non,Drug,Non
+340,2014-S91,WCME_385,USA,Rectum,Male,White,31,28-37,18-42,18-52,Indoors,Summer,Less48,25-48,28.5,Overweight,Accident,WCME_385,HEROIN TOXICITY,Drug,Non,Drug,Non
+341,2014-S91,WCME_384,USA,Ears,Male,White,31,28-37,18-42,18-52,Indoors,Summer,Less48,25-48,28.5,Overweight,Accident,WCME_384,HEROIN TOXICITY,Drug,Non,Drug,Non
+567,2015-S39,WCME_613,USA,Mouth,Female,White,31,28-37,18-42,18-52,Hospital,Spring,Less48,25-48,30.1,Obese,Accident,WCME_613,benzodiazepine and opiate use,Drug,Non,Drug,Non
+568,2015-S39,WCME_612,USA,Nose,Female,White,31,28-37,18-42,18-52,Hospital,Spring,Less48,25-48,30.1,Obese,Accident,WCME_612,benzodiazepine and opiate use,Drug,Non,Drug,Non
+569,2015-S39,WCME_610,USA,Ears,Female,White,31,28-37,18-42,18-52,Hospital,Spring,Less48,25-48,30.1,Obese,Accident,WCME_610,benzodiazepine and opiate use,Drug,Non,Drug,Non
+570,2015-S39,WCME_615,USA,Rectum,Female,White,31,28-37,18-42,18-52,Hospital,Spring,Less48,25-48,30.1,Obese,Accident,WCME_615,benzodiazepine and opiate use,Drug,Non,Drug,Non
+604,2015-S44,WCME_637,USA,Eyes,Male,White,31,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,31,Obese,Accident,WCME_637,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+605,2015-S44,WCME_636,USA,Ears,Male,White,31,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,31,Obese,Accident,WCME_636,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+606,2015-S44,WCME_639,USA,Mouth,Male,White,31,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,31,Obese,Accident,WCME_639,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+607,2015-S44,WCME_638,USA,Nose,Male,White,31,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,31,Obese,Accident,WCME_638,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+608,2015-S44,WCME_641,USA,Rectum,Male,White,31,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,31,Obese,Accident,WCME_641,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+93,2014-S147,WCME_488,USA,Eyes,Male,White,33,28-37,18-42,18-52,Indoors,Summer,Less48,25-48,27.5,Overweight,Accident,WCME_488,HEROIN TOXICITY,Drug,Non,Drug,Non
+94,2014-S147,WCME_486,USA,Ears,Male,White,33,28-37,18-42,18-52,Indoors,Summer,Less48,25-48,27.5,Overweight,Accident,WCME_486,HEROIN TOXICITY,Drug,Non,Drug,Non
+95,2014-S147,WCME_487,USA,Rectum,Male,White,33,28-37,18-42,18-52,Indoors,Summer,Less48,25-48,27.5,Overweight,Accident,WCME_487,HEROIN TOXICITY,Drug,Non,Drug,Non
+96,2014-S147,WCME_490,USA,Nose,Male,White,33,28-37,18-42,18-52,Indoors,Summer,Less48,25-48,27.5,Overweight,Accident,WCME_490,HEROIN TOXICITY,Drug,Non,Drug,Non
+97,2014-S147,WCME_491,USA,Mouth,Male,White,33,28-37,18-42,18-52,Indoors,Summer,Less48,25-48,27.5,Overweight,Accident,WCME_491,HEROIN TOXICITY,Drug,Non,Drug,Non
+510,2015-S23,WCME_558,USA,Ears,Male,White,33,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,27.3,Overweight,Accident,WCME_558,ALPRAZOLAM TOXICITY,Drug,Non,Drug,Non
+511,2015-S23,WCME_559,USA,Eyes,Male,White,33,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,27.3,Overweight,Accident,WCME_559,ALPRAZOLAM TOXICITY,Drug,Non,Drug,Non
+512,2015-S23,WCME_560,USA,Nose,Male,White,33,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,27.3,Overweight,Accident,WCME_560,ALPRAZOLAM TOXICITY,Drug,Non,Drug,Non
+513,2015-S23,WCME_561,USA,Mouth,Male,White,33,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,27.3,Overweight,Accident,WCME_561,ALPRAZOLAM TOXICITY,Drug,Non,Drug,Non
+514,2015-S23,WCME_563,USA,Rectum,Male,White,33,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,27.3,Overweight,Accident,WCME_563,ALPRAZOLAM TOXICITY,Drug,Non,Drug,Non
+197,2014-S42,WCME_202,USA,Mouth,Male,White,34,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,36.4,Severe Obesity,Accident,WCME_202,COCAINE AND HEROIN TOXICITY,Drug,Non,Drug,Non
+198,2014-S42,WCME_199,USA,Eyes,Male,White,34,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,36.4,Severe Obesity,Accident,WCME_199,COCAINE AND HEROIN TOXICITY,Drug,Non,Drug,Non
+199,2014-S42,WCME_198,USA,Rectum,Male,White,34,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,36.4,Severe Obesity,Accident,WCME_198,COCAINE AND HEROIN TOXICITY,Drug,Non,Drug,Non
+200,2014-S42,WCME_197,USA,Ears,Male,White,34,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,36.4,Severe Obesity,Accident,WCME_197,COCAINE AND HEROIN TOXICITY,Drug,Non,Drug,Non
+201,2014-S42,WCME_201,USA,Nose,Male,White,34,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,36.4,Severe Obesity,Accident,WCME_201,COCAINE AND HEROIN TOXICITY,Drug,Non,Drug,Non
+460,2015-S20,WCME_555,USA,Rectum,Male,White,34,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,44.9,Morbid Obesity,Accident,WCME_555,MULTIPLE DRUGS TOXICITY,Drug,Non,Drug,Non
+461,2015-S20,WCME_553,USA,Nose,Male,White,34,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,44.9,Morbid Obesity,Accident,WCME_553,MULTIPLE DRUGS TOXICITY,Drug,Non,Drug,Non
+462,2015-S20,WCME_551,USA,Ears,Male,White,34,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,44.9,Morbid Obesity,Accident,WCME_551,MULTIPLE DRUGS TOXICITY,Drug,Non,Drug,Non
+463,2015-S20,WCME_554,USA,Mouth,Male,White,34,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,44.9,Morbid Obesity,Accident,WCME_554,MULTIPLE DRUGS TOXICITY,Drug,Non,Drug,Non
+464,2015-S20,WCME_552,USA,Eyes,Male,White,34,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,44.9,Morbid Obesity,Accident,WCME_552,MULTIPLE DRUGS TOXICITY,Drug,Non,Drug,Non
+157,2014-S32,WCME_144,USA,Eyes,Male,White,35,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,24.6,Normal Weight,Accident,WCME_144,MULTIPLE DRUG INTOXICATION,Drug,Non,Drug,Non
+158,2014-S32,WCME_143,USA,Ears,Male,White,35,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,24.6,Normal Weight,Accident,WCME_143,MULTIPLE DRUG INTOXICATION,Drug,Non,Drug,Non
+159,2014-S32,WCME_145,USA,Nose,Male,White,35,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,24.6,Normal Weight,Accident,WCME_145,MULTIPLE DRUG INTOXICATION,Drug,Non,Drug,Non
+160,2014-S32,WCME_147,USA,Mouth,Male,White,35,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,24.6,Normal Weight,Accident,WCME_147,MULTIPLE DRUG INTOXICATION,Drug,Non,Drug,Non
+475,2015-S204,WCME_893,USA,Ears,Female,White,35,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,36.6,Severe Obesity,Accident,WCME_893,"citalopram, diazepam, and morphine toxicity",Drug,Non,Drug,Non
+476,2015-S204,WCME_895,USA,Nose,Female,White,35,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,36.6,Severe Obesity,Accident,WCME_895,"citalopram, diazepam, and morphine toxicity",Drug,Non,Drug,Non
+477,2015-S204,WCME_894,USA,Eyes,Female,White,35,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,36.6,Severe Obesity,Accident,WCME_894,"citalopram, diazepam, and morphine toxicity",Drug,Non,Drug,Non
+478,2015-S204,WCME_898,USA,Rectum,Female,White,35,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,36.6,Severe Obesity,Accident,WCME_898,"citalopram, diazepam, and morphine toxicity",Drug,Non,Drug,Non
+479,2015-S204,WCME_896,USA,Mouth,Female,White,35,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,36.6,Severe Obesity,Accident,WCME_896,"citalopram, diazepam, and morphine toxicity",Drug,Non,Drug,Non
+695,2015-S523,WCME_996,USA,Nose,Female,Black,35,28-37,18-42,18-52,Indoors,Winter,Less48,Less24,35.8,Severe Obesity,Accident,WCME_996,COCAINE AND HEROIN ABUSE,Drug,Non,Drug,Non
+696,2015-S523,WCME_1156,USA,Eyes,Female,Black,35,28-37,18-42,18-52,Indoors,Winter,Less48,Less24,35.8,Severe Obesity,Accident,WCME_1156,COCAINE AND HEROIN ABUSE,Drug,Non,Drug,Non
+697,2015-S523,WCME_1325,USA,Ears,Female,Black,35,28-37,18-42,18-52,Indoors,Winter,Less48,Less24,35.8,Severe Obesity,Accident,WCME_1325,COCAINE AND HEROIN ABUSE,Drug,Non,Drug,Non
+698,2015-S523,WCME_1132,USA,Mouth,Female,Black,35,28-37,18-42,18-52,Indoors,Winter,Less48,Less24,35.8,Severe Obesity,Accident,WCME_1132,COCAINE AND HEROIN ABUSE,Drug,Non,Drug,Non
+357,2015-S13,WCME_522,USA,Mouth,Male,White,36,28-37,18-42,18-52,Indoors,Winter,Less48,25-48,20.5,Normal Weight,Accident,WCME_522,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+358,2015-S13,WCME_524,USA,Rectum,Male,White,36,28-37,18-42,18-52,Indoors,Winter,Less48,25-48,20.5,Normal Weight,Accident,WCME_524,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+359,2015-S13,WCME_520,USA,Eyes,Male,White,36,28-37,18-42,18-52,Indoors,Winter,Less48,25-48,20.5,Normal Weight,Accident,WCME_520,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+360,2015-S13,WCME_521,USA,Nose,Male,White,36,28-37,18-42,18-52,Indoors,Winter,Less48,25-48,20.5,Normal Weight,Accident,WCME_521,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+361,2015-S13,WCME_519,USA,Ears,Male,White,36,28-37,18-42,18-52,Indoors,Winter,Less48,25-48,20.5,Normal Weight,Accident,WCME_519,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+767,2015-S595,WCME_955,USA,Eyes,Female,Black,36,28-37,18-42,18-52,Indoors,Winter,Less48,25-48,31.7,Obese,Accident,WCME_955,"ALPRAZOLAM, HYDROCODONE, AND OXYCODONE TOXICITY",Drug,Non,Drug,Non
+768,2015-S595,WCME_961,USA,Rectum,Female,Black,36,28-37,18-42,18-52,Indoors,Winter,Less48,25-48,31.7,Obese,Accident,WCME_961,"ALPRAZOLAM, HYDROCODONE, AND OXYCODONE TOXICITY",Drug,Non,Drug,Non
+769,2015-S595,WCME_1019,USA,Nose,Female,Black,36,28-37,18-42,18-52,Indoors,Winter,Less48,25-48,31.7,Obese,Accident,WCME_1019,"ALPRAZOLAM, HYDROCODONE, AND OXYCODONE TOXICITY",Drug,Non,Drug,Non
+770,2015-S595,WCME_1327,USA,Ears,Female,Black,36,28-37,18-42,18-52,Indoors,Winter,Less48,25-48,31.7,Obese,Accident,WCME_1327,"ALPRAZOLAM, HYDROCODONE, AND OXYCODONE TOXICITY",Drug,Non,Drug,Non
+771,2015-S595,WCME_1012,USA,Mouth,Female,Black,36,28-37,18-42,18-52,Indoors,Winter,Less48,25-48,31.7,Obese,Accident,WCME_1012,"ALPRAZOLAM, HYDROCODONE, AND OXYCODONE TOXICITY",Drug,Non,Drug,Non
+868,2015-S97,WCME_809,USA,Eyes,Female,White,36,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,25.8,Overweight,Accident,WCME_809,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+869,2015-S97,WCME_808,USA,Ears,Female,White,36,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,25.8,Overweight,Accident,WCME_808,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+870,2015-S97,WCME_813,USA,Rectum,Female,White,36,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,25.8,Overweight,Accident,WCME_813,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+871,2015-S97,WCME_810,USA,Nose,Female,White,36,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,25.8,Overweight,Accident,WCME_810,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+872,2015-S97,WCME_811,USA,Mouth,Female,White,36,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,25.8,Overweight,Accident,WCME_811,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+494,2015-S213,WCME_918,USA,Nose,Male,White,36,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,31,Obese,Accident,WCME_918,"cocaine, fentanyl and acetyl fentanyl toxicity",Drug,Non,Drug,Non
+495,2015-S213,WCME_916,USA,Ears,Male,White,36,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,31,Obese,Accident,WCME_916,"cocaine, fentanyl and acetyl fentanyl toxicity",Drug,Non,Drug,Non
+496,2015-S213,WCME_917,USA,Eyes,Male,White,36,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,31,Obese,Accident,WCME_917,"cocaine, fentanyl and acetyl fentanyl toxicity",Drug,Non,Drug,Non
+497,2015-S213,WCME_921,USA,Rectum,Male,White,36,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,31,Obese,Accident,WCME_921,"cocaine, fentanyl and acetyl fentanyl toxicity",Drug,Non,Drug,Non
+498,2015-S213,WCME_919,USA,Mouth,Male,White,36,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,31,Obese,Accident,WCME_919,"cocaine, fentanyl and acetyl fentanyl toxicity",Drug,Non,Drug,Non
+644,2015-S48,WCME_649,USA,Rectum,Male,Black,38,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,17.7,Underweight,Accident,WCME_649,MULTIPLE DRUGS TOXICITY,Drug,Non,Drug,Non
+645,2015-S48,WCME_647,USA,Mouth,Male,Black,38,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,17.7,Underweight,Accident,WCME_647,MULTIPLE DRUGS TOXICITY,Drug,Non,Drug,Non
+646,2015-S48,WCME_645,USA,Eyes,Male,Black,38,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,17.7,Underweight,Accident,WCME_645,MULTIPLE DRUGS TOXICITY,Drug,Non,Drug,Non
+647,2015-S48,WCME_644,USA,Ears,Male,Black,38,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,17.7,Underweight,Accident,WCME_644,MULTIPLE DRUGS TOXICITY,Drug,Non,Drug,Non
+648,2015-S48,WCME_646,USA,Nose,Male,Black,38,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,17.7,Underweight,Accident,WCME_646,MULTIPLE DRUGS TOXICITY,Drug,Non,Drug,Non
+873,2015-S98,WCME_817,USA,Eyes,Male,White,39,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,28.7,Overweight,Accident,WCME_817,FENTANYL TOXICITY,Drug,Non,Drug,Non
+874,2015-S98,WCME_821,USA,Rectum,Male,White,39,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,28.7,Overweight,Accident,WCME_821,FENTANYL TOXICITY,Drug,Non,Drug,Non
+875,2015-S98,WCME_818,USA,Nose,Male,White,39,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,28.7,Overweight,Accident,WCME_818,FENTANYL TOXICITY,Drug,Non,Drug,Non
+876,2015-S98,WCME_816,USA,Ears,Male,White,39,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,28.7,Overweight,Accident,WCME_816,FENTANYL TOXICITY,Drug,Non,Drug,Non
+877,2015-S98,WCME_819,USA,Mouth,Male,White,39,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,28.7,Overweight,Accident,WCME_819,FENTANYL TOXICITY,Drug,Non,Drug,Non
+763,2015-S594,WCME_998,USA,Nose,Female,Black,39,38-47,18-42,18-52,Hospital,Winter,Less48,Less24,34.7,Obese,Accident,WCME_998,OXYCODONE TOXICITY,Drug,Non,Drug,Non
+764,2015-S594,WCME_1386,USA,Ears,Female,Black,39,38-47,18-42,18-52,Hospital,Winter,Less48,Less24,34.7,Obese,Accident,WCME_1386,OXYCODONE TOXICITY,Drug,Non,Drug,Non
+765,2015-S594,WCME_1049,USA,Eyes,Female,Black,39,38-47,18-42,18-52,Hospital,Winter,Less48,Less24,34.7,Obese,Accident,WCME_1049,OXYCODONE TOXICITY,Drug,Non,Drug,Non
+766,2015-S594,WCME_1004,USA,Mouth,Female,Black,39,38-47,18-42,18-52,Hospital,Winter,Less48,Less24,34.7,Obese,Accident,WCME_1004,OXYCODONE TOXICITY,Drug,Non,Drug,Non
+342,2014-S92,WCME_393,USA,Eyes,Male,White,40,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,39.1,Severe Obesity,Accident,WCME_393,"ALCOHOL, HYDROCODONE, AND METHADONE TOXICITY",Drug,Non,Drug,Non
+343,2014-S92,WCME_395,USA,Nose,Male,White,40,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,39.1,Severe Obesity,Accident,WCME_395,"ALCOHOL, HYDROCODONE, AND METHADONE TOXICITY",Drug,Non,Drug,Non
+344,2014-S92,WCME_392,USA,Rectum,Male,White,40,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,39.1,Severe Obesity,Accident,WCME_392,"ALCOHOL, HYDROCODONE, AND METHADONE TOXICITY",Drug,Non,Drug,Non
+345,2014-S92,WCME_396,USA,Mouth,Male,White,40,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,39.1,Severe Obesity,Accident,WCME_396,"ALCOHOL, HYDROCODONE, AND METHADONE TOXICITY",Drug,Non,Drug,Non
+346,2014-S92,WCME_391,USA,Ears,Male,White,40,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,39.1,Severe Obesity,Accident,WCME_391,"ALCOHOL, HYDROCODONE, AND METHADONE TOXICITY",Drug,Non,Drug,Non
+165,2014-S347,WCME_503,USA,Mouth,Male,White,40,38-47,18-42,18-52,Indoors,Autumn,More48,Great73,24.7,Normal Weight,Accident,WCME_503,"FENTANYL, HYDROCODONE, AND OXYCODONE, AND OXYCODONE TOXICITY",Drug,Non,Drug,Non
+166,2014-S347,WCME_502,USA,Nose,Male,White,40,38-47,18-42,18-52,Indoors,Autumn,More48,Great73,24.7,Normal Weight,Accident,WCME_502,"FENTANYL, HYDROCODONE, AND OXYCODONE, AND OXYCODONE TOXICITY",Drug,Non,Drug,Non
+167,2014-S347,WCME_500,USA,Eyes,Male,White,40,38-47,18-42,18-52,Indoors,Autumn,More48,Great73,24.7,Normal Weight,Accident,WCME_500,"FENTANYL, HYDROCODONE, AND OXYCODONE, AND OXYCODONE TOXICITY",Drug,Non,Drug,Non
+168,2014-S347,WCME_498,USA,Ears,Male,White,40,38-47,18-42,18-52,Indoors,Autumn,More48,Great73,24.7,Normal Weight,Accident,WCME_498,"FENTANYL, HYDROCODONE, AND OXYCODONE, AND OXYCODONE TOXICITY",Drug,Non,Drug,Non
+169,2014-S347,WCME_499,USA,Rectum,Male,White,40,38-47,18-42,18-52,Indoors,Autumn,More48,Great73,24.7,Normal Weight,Accident,WCME_499,"FENTANYL, HYDROCODONE, AND OXYCODONE, AND OXYCODONE TOXICITY",Drug,Non,Drug,Non
+175,2014-S36,WCME_159,USA,Ears,Female,White,40,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,20.9,Normal Weight,Accident,WCME_159,HYDROCODONE TOXICITY,Drug,Non,Drug,Non
+176,2014-S36,WCME_163,USA,Nose,Female,White,40,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,20.9,Normal Weight,Accident,WCME_163,HYDROCODONE TOXICITY,Drug,Non,Drug,Non
+177,2014-S36,WCME_161,USA,Eyes,Female,White,40,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,20.9,Normal Weight,Accident,WCME_161,HYDROCODONE TOXICITY,Drug,Non,Drug,Non
+178,2014-S36,WCME_164,USA,Mouth,Female,White,40,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,20.9,Normal Weight,Accident,WCME_164,HYDROCODONE TOXICITY,Drug,Non,Drug,Non
+179,2014-S36,WCME_160,USA,Rectum,Female,White,40,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,20.9,Normal Weight,Accident,WCME_160,HYDROCODONE TOXICITY,Drug,Non,Drug,Non
+297,2014-S8,WCME_42,USA,Mouth,Female,White,40,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,51.6,Super Obese,Accident,WCME_42,FENTANYL ,Drug,Non,Drug,Non
+298,2014-S8,WCME_38,USA,Rectum,Female,White,40,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,51.6,Super Obese,Accident,WCME_38,FENTANYL ,Drug,Non,Drug,Non
+299,2014-S8,WCME_37,USA,Ears,Female,White,40,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,51.6,Super Obese,Accident,WCME_37,FENTANYL ,Drug,Non,Drug,Non
+300,2014-S8,WCME_39,USA,Eyes,Female,White,40,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,51.6,Super Obese,Accident,WCME_39,FENTANYL ,Drug,Non,Drug,Non
+301,2014-S8,WCME_41,USA,Nose,Female,White,40,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,51.6,Super Obese,Accident,WCME_41,FENTANYL ,Drug,Non,Drug,Non
+267,2014-S7,WCME_30,USA,Ears,Male,White,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,27,Overweight,Accident,WCME_30,HEROIN TOXICITY ,Drug,Non,Drug,Non
+268,2014-S7,WCME_32,USA,Eyes,Male,White,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,27,Overweight,Accident,WCME_32,HEROIN TOXICITY ,Drug,Non,Drug,Non
+269,2014-S7,WCME_31,USA,Rectum,Male,White,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,27,Overweight,Accident,WCME_31,HEROIN TOXICITY ,Drug,Non,Drug,Non
+270,2014-S7,WCME_35,USA,Mouth,Male,White,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,27,Overweight,Accident,WCME_35,HEROIN TOXICITY ,Drug,Non,Drug,Non
+271,2014-S7,WCME_34,USA,Nose,Male,White,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,27,Overweight,Accident,WCME_34,HEROIN TOXICITY ,Drug,Non,Drug,Non
+317,2014-S84,WCME_357,USA,Ears,Male,Black,41,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,37.2,Severe Obesity,Accident,WCME_357,OXYCODONE ,Drug,Non,Drug,Non
+318,2014-S84,WCME_361,USA,Nose,Male,Black,41,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,37.2,Severe Obesity,Accident,WCME_361,OXYCODONE ,Drug,Non,Drug,Non
+319,2014-S84,WCME_362,USA,Mouth,Male,Black,41,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,37.2,Severe Obesity,Accident,WCME_362,OXYCODONE ,Drug,Non,Drug,Non
+320,2014-S84,WCME_359,USA,Eyes,Male,Black,41,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,37.2,Severe Obesity,Accident,WCME_359,OXYCODONE ,Drug,Non,Drug,Non
+321,2014-S84,WCME_358,USA,Rectum,Male,Black,41,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,37.2,Severe Obesity,Accident,WCME_358,OXYCODONE ,Drug,Non,Drug,Non
+781,2015-S63,WCME_686,USA,Mouth,Male,White,42,38-47,18-42,18-52,Indoors,Spring,More48,49-72,29.4,Overweight,Accident,WCME_686,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+782,2015-S63,WCME_688,USA,Rectum,Male,White,42,38-47,18-42,18-52,Indoors,Spring,More48,49-72,29.4,Overweight,Accident,WCME_688,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+783,2015-S63,WCME_685,USA,Nose,Male,White,42,38-47,18-42,18-52,Indoors,Spring,More48,49-72,29.4,Overweight,Accident,WCME_685,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+784,2015-S63,WCME_684,USA,Eyes,Male,White,42,38-47,18-42,18-52,Indoors,Spring,More48,49-72,29.4,Overweight,Accident,WCME_684,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+785,2015-S63,WCME_683,USA,Ears,Male,White,42,38-47,18-42,18-52,Indoors,Spring,More48,49-72,29.4,Overweight,Accident,WCME_683,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+45,2014-S12,WCME_58,USA,Rectum,Male,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,41.1,Morbid Obesity,Accident,WCME_58,COCAINE ,Drug,Non,Drug,Non
+46,2014-S12,WCME_59,USA,Eyes,Male,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,41.1,Morbid Obesity,Accident,WCME_59,COCAINE ,Drug,Non,Drug,Non
+47,2014-S12,WCME_57,USA,Ears,Male,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,41.1,Morbid Obesity,Accident,WCME_57,COCAINE ,Drug,Non,Drug,Non
+48,2014-S12,WCME_62,USA,Mouth,Male,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,41.1,Morbid Obesity,Accident,WCME_62,COCAINE ,Drug,Non,Drug,Non
+49,2014-S12,WCME_61,USA,Nose,Male,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,41.1,Morbid Obesity,Accident,WCME_61,COCAINE ,Drug,Non,Drug,Non
+534,2015-S335,WCME_1378,USA,Ears,Female,Black,44,38-47,43-67,18-52,Indoors,Winter,Less48,25-48,27.9,Overweight,Accident,WCME_1378,"COCAINE, FENTANYL, AND HEROIN TOXICITY",Drug,Non,Drug,Non
+535,2015-S335,WCME_1105,USA,Rectum,Female,Black,44,38-47,43-67,18-52,Indoors,Winter,Less48,25-48,27.9,Overweight,Accident,WCME_1105,"COCAINE, FENTANYL, AND HEROIN TOXICITY",Drug,Non,Drug,Non
+536,2015-S335,WCME_1051,USA,Eyes,Female,Black,44,38-47,43-67,18-52,Indoors,Winter,Less48,25-48,27.9,Overweight,Accident,WCME_1051,"COCAINE, FENTANYL, AND HEROIN TOXICITY",Drug,Non,Drug,Non
+537,2015-S335,WCME_1159,USA,Mouth,Female,Black,44,38-47,43-67,18-52,Indoors,Winter,Less48,25-48,27.9,Overweight,Accident,WCME_1159,"COCAINE, FENTANYL, AND HEROIN TOXICITY",Drug,Non,Drug,Non
+538,2015-S34,WCME_596,USA,Ears,Female,Black,44,38-47,43-67,18-52,Hospital,Spring,More48,49-72,30.6,Obese,Accident,WCME_596,ACETAMINOPHEN TOXICITY,Drug,Non,Drug,Non
+539,2015-S34,WCME_599,USA,Mouth,Female,Black,44,38-47,43-67,18-52,Hospital,Spring,More48,49-72,30.6,Obese,Accident,WCME_599,ACETAMINOPHEN TOXICITY,Drug,Non,Drug,Non
+540,2015-S34,WCME_597,USA,Eyes,Female,Black,44,38-47,43-67,18-52,Hospital,Spring,More48,49-72,30.6,Obese,Accident,WCME_597,ACETAMINOPHEN TOXICITY,Drug,Non,Drug,Non
+541,2015-S34,WCME_598,USA,Nose,Female,Black,44,38-47,43-67,18-52,Hospital,Spring,More48,49-72,30.6,Obese,Accident,WCME_598,ACETAMINOPHEN TOXICITY,Drug,Non,Drug,Non
+542,2015-S34,WCME_601,USA,Rectum,Female,Black,44,38-47,43-67,18-52,Hospital,Spring,More48,49-72,30.6,Obese,Accident,WCME_601,ACETAMINOPHEN TOXICITY,Drug,Non,Drug,Non
+820,2015-S78,WCME_740,USA,Nose,Female,White,44,38-47,43-67,18-52,Indoors,Spring,More48,49-72,32.1,Obese,Accident,WCME_740,FENTANYL AND HEROIN TOXICITY,Drug,Non,Drug,Non
+821,2015-S78,WCME_738,USA,Ears,Female,White,44,38-47,43-67,18-52,Indoors,Spring,More48,49-72,32.1,Obese,Accident,WCME_738,FENTANYL AND HEROIN TOXICITY,Drug,Non,Drug,Non
+822,2015-S78,WCME_739,USA,Eyes,Female,White,44,38-47,43-67,18-52,Indoors,Spring,More48,49-72,32.1,Obese,Accident,WCME_739,FENTANYL AND HEROIN TOXICITY,Drug,Non,Drug,Non
+823,2015-S78,WCME_742,USA,Rectum,Female,White,44,38-47,43-67,18-52,Indoors,Spring,More48,49-72,32.1,Obese,Accident,WCME_742,FENTANYL AND HEROIN TOXICITY,Drug,Non,Drug,Non
+824,2015-S78,WCME_741,USA,Mouth,Female,White,44,38-47,43-67,18-52,Indoors,Spring,More48,49-72,32.1,Obese,Accident,WCME_741,FENTANYL AND HEROIN TOXICITY,Drug,Non,Drug,Non
+552,2015-S370,WCME_1387,USA,Ears,Female,Black,46,38-47,43-67,18-52,Indoors,Summer,Less48,25-48,25.5,Overweight,Accident,WCME_1387,"COCAINE, FENTANYL AND MORPHINE INTOXICATION",Drug,Non,Drug,Non
+553,2015-S370,WCME_1173,USA,Mouth,Female,Black,46,38-47,43-67,18-52,Indoors,Summer,Less48,25-48,25.5,Overweight,Accident,WCME_1173,"COCAINE, FENTANYL AND MORPHINE INTOXICATION",Drug,Non,Drug,Non
+554,2015-S370,WCME_1256,USA,Eyes,Female,Black,46,38-47,43-67,18-52,Indoors,Summer,Less48,25-48,25.5,Overweight,Accident,WCME_1256,"COCAINE, FENTANYL AND MORPHINE INTOXICATION",Drug,Non,Drug,Non
+555,2015-S370,WCME_1288,USA,Rectum,Female,Black,46,38-47,43-67,18-52,Indoors,Summer,Less48,25-48,25.5,Overweight,Accident,WCME_1288,"COCAINE, FENTANYL AND MORPHINE INTOXICATION",Drug,Non,Drug,Non
+556,2015-S370,WCME_1226,USA,Nose,Female,Black,46,38-47,43-67,18-52,Indoors,Summer,Less48,25-48,25.5,Overweight,Accident,WCME_1226,"COCAINE, FENTANYL AND MORPHINE INTOXICATION",Drug,Non,Drug,Non
+863,2015-S96,WCME_800,USA,Ears,Male,White,46,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,27.5,Overweight,Accident,WCME_800,FENTANYL AND MORPHINE TOXICITY,Drug,Non,Drug,Non
+864,2015-S96,WCME_801,USA,Eyes,Male,White,46,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,27.5,Overweight,Accident,WCME_801,FENTANYL AND MORPHINE TOXICITY,Drug,Non,Drug,Non
+865,2015-S96,WCME_805,USA,Rectum,Male,White,46,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,27.5,Overweight,Accident,WCME_805,FENTANYL AND MORPHINE TOXICITY,Drug,Non,Drug,Non
+866,2015-S96,WCME_803,USA,Mouth,Male,White,46,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,27.5,Overweight,Accident,WCME_803,FENTANYL AND MORPHINE TOXICITY,Drug,Non,Drug,Non
+867,2015-S96,WCME_802,USA,Nose,Male,White,46,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,27.5,Overweight,Accident,WCME_802,FENTANYL AND MORPHINE TOXICITY,Drug,Non,Drug,Non
+659,2015-S49,WCME_652,USA,Ears,Female,Black,47,38-47,43-67,18-52,Outdoors,Spring,Less48,Less24,31.6,Obese,Accident,WCME_652,COCAINE TOXICITY,Drug,Non,Drug,Non
+660,2015-S49,WCME_654,USA,Nose,Female,Black,47,38-47,43-67,18-52,Outdoors,Spring,Less48,Less24,31.6,Obese,Accident,WCME_654,COCAINE TOXICITY,Drug,Non,Drug,Non
+661,2015-S49,WCME_655,USA,Mouth,Female,Black,47,38-47,43-67,18-52,Outdoors,Spring,Less48,Less24,31.6,Obese,Accident,WCME_655,COCAINE TOXICITY,Drug,Non,Drug,Non
+662,2015-S49,WCME_653,USA,Eyes,Female,Black,47,38-47,43-67,18-52,Outdoors,Spring,Less48,Less24,31.6,Obese,Accident,WCME_653,COCAINE TOXICITY,Drug,Non,Drug,Non
+663,2015-S49,WCME_657,USA,Rectum,Female,Black,47,38-47,43-67,18-52,Outdoors,Spring,Less48,Less24,31.6,Obese,Accident,WCME_657,COCAINE TOXICITY,Drug,Non,Drug,Non
+112,2014-S20,WCME_95,USA,Nose,Female,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,30,Obese,Accident,WCME_95,HYDROCODONE AND HYDROMORPHONE TOXICITY,Drug,Non,Drug,Non
+113,2014-S20,WCME_91,USA,Ears,Female,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,30,Obese,Accident,WCME_91,HYDROCODONE AND HYDROMORPHONE TOXICITY,Drug,Non,Drug,Non
+114,2014-S20,WCME_92,USA,Rectum,Female,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,30,Obese,Accident,WCME_92,HYDROCODONE AND HYDROMORPHONE TOXICITY,Drug,Non,Drug,Non
+115,2014-S20,WCME_93,USA,Eyes,Female,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,30,Obese,Accident,WCME_93,HYDROCODONE AND HYDROMORPHONE TOXICITY,Drug,Non,Drug,Non
+499,2015-S215,WCME_1406,USA,Ears,Female,Black,48,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,24.4,Normal Weight,Accident,WCME_1406,ALPRAZOLAM AND CODEINE TOXICITY,Drug,Non,Drug,Non
+500,2015-S215,WCME_1166,USA,Nose,Female,Black,48,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,24.4,Normal Weight,Accident,WCME_1166,ALPRAZOLAM AND CODEINE TOXICITY,Drug,Non,Drug,Non
+501,2015-S215,WCME_1354,USA,Eyes,Female,Black,48,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,24.4,Normal Weight,Accident,WCME_1354,ALPRAZOLAM AND CODEINE TOXICITY,Drug,Non,Drug,Non
+502,2015-S215,WCME_1289,USA,Mouth,Female,Black,48,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,24.4,Normal Weight,Accident,WCME_1289,ALPRAZOLAM AND CODEINE TOXICITY,Drug,Non,Drug,Non
+503,2015-S215,WCME_1177,USA,Rectum,Female,Black,48,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,24.4,Normal Weight,Accident,WCME_1177,ALPRAZOLAM AND CODEINE TOXICITY,Drug,Non,Drug,Non
+801,2015-S68,WCME_983,USA,Nose,Female,Black,48,48-57,43-67,18-52,Hospital,Spring,Less48,Less24,25.4,Overweight,Accident,WCME_983,HEROIN TOXICITY,Drug,Non,Drug,Non
+802,2015-S68,WCME_1055,USA,Rectum,Female,Black,48,48-57,43-67,18-52,Hospital,Spring,Less48,Less24,25.4,Overweight,Accident,WCME_1055,HEROIN TOXICITY,Drug,Non,Drug,Non
+803,2015-S68,WCME_1366,USA,Eyes,Female,Black,48,48-57,43-67,18-52,Hospital,Spring,Less48,Less24,25.4,Overweight,Accident,WCME_1366,HEROIN TOXICITY,Drug,Non,Drug,Non
+804,2015-S68,WCME_1100,USA,Mouth,Female,Black,48,48-57,43-67,18-52,Hospital,Spring,Less48,Less24,25.4,Overweight,Accident,WCME_1100,HEROIN TOXICITY,Drug,Non,Drug,Non
+726,2015-S57,WCME_668,USA,Ears,Male,Black,49,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,33.8,Obese,Accident,WCME_668,HEROIN TOXICITY,Drug,Non,Drug,Non
+727,2015-S57,WCME_669,USA,Eyes,Male,Black,49,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,33.8,Obese,Accident,WCME_669,HEROIN TOXICITY,Drug,Non,Drug,Non
+728,2015-S57,WCME_670,USA,Nose,Male,Black,49,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,33.8,Obese,Accident,WCME_670,HEROIN TOXICITY,Drug,Non,Drug,Non
+729,2015-S57,WCME_672,USA,Rectum,Male,Black,49,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,33.8,Obese,Accident,WCME_672,HEROIN TOXICITY,Drug,Non,Drug,Non
+730,2015-S57,WCME_671,USA,Mouth,Male,Black,49,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,33.8,Obese,Accident,WCME_671,HEROIN TOXICITY,Drug,Non,Drug,Non
+749,2015-S58,WCME_675,USA,Ears,Female,White,49,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,53.7,Super Obese,Accident,WCME_675,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+750,2015-S58,WCME_676,USA,Eyes,Female,White,49,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,53.7,Super Obese,Accident,WCME_676,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+751,2015-S58,WCME_678,USA,Mouth,Female,White,49,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,53.7,Super Obese,Accident,WCME_678,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+752,2015-S58,WCME_680,USA,Rectum,Female,White,49,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,53.7,Super Obese,Accident,WCME_680,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+834,2015-S82,WCME_756,USA,Mouth,Male,White,49,48-57,43-67,18-52,Indoors,Spring,More48,Great73,30.8,Obese,Accident,WCME_756,METHADONE TOXICITY,Drug,Non,Drug,Non
+835,2015-S82,WCME_753,USA,Ears,Male,White,49,48-57,43-67,18-52,Indoors,Spring,More48,Great73,30.8,Obese,Accident,WCME_753,METHADONE TOXICITY,Drug,Non,Drug,Non
+836,2015-S82,WCME_754,USA,Eyes,Male,White,49,48-57,43-67,18-52,Indoors,Spring,More48,Great73,30.8,Obese,Accident,WCME_754,METHADONE TOXICITY,Drug,Non,Drug,Non
+837,2015-S82,WCME_755,USA,Nose,Male,White,49,48-57,43-67,18-52,Indoors,Spring,More48,Great73,30.8,Obese,Accident,WCME_755,METHADONE TOXICITY,Drug,Non,Drug,Non
+838,2015-S82,WCME_758,USA,Rectum,Male,White,49,48-57,43-67,18-52,Indoors,Spring,More48,Great73,30.8,Obese,Accident,WCME_758,METHADONE TOXICITY,Drug,Non,Drug,Non
+247,2014-S57,WCME_240,USA,Eyes,Female,Black,50,48-57,43-67,18-52,Indoors,Spring,More48,49-72,24.8,Normal Weight,Accident,WCME_240,"COCAINE, DOXEPIN, AND QUETIAPINE TOXICITY",Drug,Non,Drug,Non
+248,2014-S57,WCME_234,USA,Mouth,Female,Black,50,48-57,43-67,18-52,Indoors,Spring,More48,49-72,24.8,Normal Weight,Accident,WCME_234,"COCAINE, DOXEPIN, AND QUETIAPINE TOXICITY",Drug,Non,Drug,Non
+249,2014-S57,WCME_274,USA,Ears,Female,Black,50,48-57,43-67,18-52,Indoors,Spring,More48,49-72,24.8,Normal Weight,Accident,WCME_274,"COCAINE, DOXEPIN, AND QUETIAPINE TOXICITY",Drug,Non,Drug,Non
+250,2014-S57,WCME_230,USA,Nose,Female,Black,50,48-57,43-67,18-52,Indoors,Spring,More48,49-72,24.8,Normal Weight,Accident,WCME_230,"COCAINE, DOXEPIN, AND QUETIAPINE TOXICITY",Drug,Non,Drug,Non
+251,2014-S57,WCME_252,USA,Rectum,Female,Black,50,48-57,43-67,18-52,Indoors,Spring,More48,49-72,24.8,Normal Weight,Accident,WCME_252,"COCAINE, DOXEPIN, AND QUETIAPINE TOXICITY",Drug,Non,Drug,Non
+262,2014-S60,WCME_293,USA,Mouth,Female,White,50,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,22,Normal Weight,Accident,WCME_293,HEROIN TOXICITY,Drug,Non,Drug,Non
+263,2014-S60,WCME_289,USA,Rectum,Female,White,50,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,22,Normal Weight,Accident,WCME_289,HEROIN TOXICITY,Drug,Non,Drug,Non
+264,2014-S60,WCME_292,USA,Nose,Female,White,50,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,22,Normal Weight,Accident,WCME_292,HEROIN TOXICITY,Drug,Non,Drug,Non
+265,2014-S60,WCME_290,USA,Eyes,Female,White,50,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,22,Normal Weight,Accident,WCME_290,HEROIN TOXICITY,Drug,Non,Drug,Non
+266,2014-S60,WCME_288,USA,Ears,Female,White,50,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,22,Normal Weight,Accident,WCME_288,HEROIN TOXICITY,Drug,Non,Drug,Non
+206,2014-S44,WCME_215,USA,Mouth,Male,White,53,48-57,43-67,53-88,Indoors,Spring,More48,49-72,35,Severe Obesity,Accident,WCME_215,COCAINE AND FETANYL TOXICITY,Drug,Non,Drug,Non
+207,2014-S44,WCME_211,USA,Rectum,Male,White,53,48-57,43-67,53-88,Indoors,Spring,More48,49-72,35,Severe Obesity,Accident,WCME_211,COCAINE AND FETANYL TOXICITY,Drug,Non,Drug,Non
+208,2014-S44,WCME_214,USA,Nose,Male,White,53,48-57,43-67,53-88,Indoors,Spring,More48,49-72,35,Severe Obesity,Accident,WCME_214,COCAINE AND FETANYL TOXICITY,Drug,Non,Drug,Non
+209,2014-S44,WCME_212,USA,Eyes,Male,White,53,48-57,43-67,53-88,Indoors,Spring,More48,49-72,35,Severe Obesity,Accident,WCME_212,COCAINE AND FETANYL TOXICITY,Drug,Non,Drug,Non
+210,2014-S44,WCME_210,USA,Ears,Male,White,53,48-57,43-67,53-88,Indoors,Spring,More48,49-72,35,Severe Obesity,Accident,WCME_210,COCAINE AND FETANYL TOXICITY,Drug,Non,Drug,Non
+858,2015-S94,WCME_795,USA,Mouth,Male,Black,53,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,27.5,Overweight,Accident,WCME_795,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+859,2015-S94,WCME_793,USA,Eyes,Male,Black,53,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,27.5,Overweight,Accident,WCME_793,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+860,2015-S94,WCME_792,USA,Ears,Male,Black,53,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,27.5,Overweight,Accident,WCME_792,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+861,2015-S94,WCME_794,USA,Nose,Male,Black,53,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,27.5,Overweight,Accident,WCME_794,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+862,2015-S94,WCME_797,USA,Rectum,Male,Black,53,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,27.5,Overweight,Accident,WCME_797,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Non
+675,2015-S496,WCME_979,USA,Nose,Male,White,56,48-57,43-67,53-88,Indoors,Summer,Less48,Less24,36.9,Severe Obesity,Accident,WCME_979,"COCAINE, HYDROCODONE, AND MORPHINE TOXICITY",Drug,Non,Drug,Non
+676,2015-S496,WCME_1370,USA,Ears,Male,White,56,48-57,43-67,53-88,Indoors,Summer,Less48,Less24,36.9,Severe Obesity,Accident,WCME_1370,"COCAINE, HYDROCODONE, AND MORPHINE TOXICITY",Drug,Non,Drug,Non
+677,2015-S496,WCME_1062,USA,Rectum,Male,White,56,48-57,43-67,53-88,Indoors,Summer,Less48,Less24,36.9,Severe Obesity,Accident,WCME_1062,"COCAINE, HYDROCODONE, AND MORPHINE TOXICITY",Drug,Non,Drug,Non
+678,2015-S496,WCME_1197,USA,Mouth,Male,White,56,48-57,43-67,53-88,Indoors,Summer,Less48,Less24,36.9,Severe Obesity,Accident,WCME_1197,"COCAINE, HYDROCODONE, AND MORPHINE TOXICITY",Drug,Non,Drug,Non
+679,2015-S496,WCME_1043,USA,Eyes,Male,White,56,48-57,43-67,53-88,Indoors,Summer,Less48,Less24,36.9,Severe Obesity,Accident,WCME_1043,"COCAINE, HYDROCODONE, AND MORPHINE TOXICITY",Drug,Non,Drug,Non
+15,2014-S110,WCME_406,USA,Rectum,Female,White,61,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,40.2,Morbid Obesity,Accident,WCME_406,HYDROCODONE ,Drug,Non,Drug,Non
+16,2014-S110,WCME_407,USA,Eyes,Female,White,61,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,40.2,Morbid Obesity,Accident,WCME_407,HYDROCODONE ,Drug,Non,Drug,Non
+17,2014-S110,WCME_409,USA,Nose,Female,White,61,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,40.2,Morbid Obesity,Accident,WCME_409,HYDROCODONE ,Drug,Non,Drug,Non
+18,2014-S110,WCME_405,USA,Ears,Female,White,61,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,40.2,Morbid Obesity,Accident,WCME_405,HYDROCODONE ,Drug,Non,Drug,Non
+19,2014-S110,WCME_410,USA,Mouth,Female,White,61,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,40.2,Morbid Obesity,Accident,WCME_410,HYDROCODONE ,Drug,Non,Drug,Non
+25,2014-S114,WCME_418,USA,Rectum,Male,Black,61,58-67,43-67,53-88,Indoors,Summer,More48,Great73,19.2,Normal Weight,Accident,WCME_418,HEROIN ,Drug,Non,Drug,Non
+26,2014-S114,WCME_419,USA,Eyes,Male,Black,61,58-67,43-67,53-88,Indoors,Summer,More48,Great73,19.2,Normal Weight,Accident,WCME_419,HEROIN ,Drug,Non,Drug,Non
+27,2014-S114,WCME_417,USA,Ears,Male,Black,61,58-67,43-67,53-88,Indoors,Summer,More48,Great73,19.2,Normal Weight,Accident,WCME_417,HEROIN ,Drug,Non,Drug,Non
+28,2014-S114,WCME_422,USA,Mouth,Male,Black,61,58-67,43-67,53-88,Indoors,Summer,More48,Great73,19.2,Normal Weight,Accident,WCME_422,HEROIN ,Drug,Non,Drug,Non
+29,2014-S114,WCME_421,USA,Nose,Male,Black,61,58-67,43-67,53-88,Indoors,Summer,More48,Great73,19.2,Normal Weight,Accident,WCME_421,HEROIN ,Drug,Non,Drug,Non
+64,2014-S132,WCME_456,USA,Nose,Male,White,65,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,27.6,Overweight,Accident,WCME_456,"AMPHETAMINE, HEROIN, QUETIAPINE ",Drug,Non,Drug,Non
+65,2014-S132,WCME_457,USA,Mouth,Male,White,65,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,27.6,Overweight,Accident,WCME_457,"AMPHETAMINE, HEROIN, QUETIAPINE ",Drug,Non,Drug,Non
+66,2014-S132,WCME_453,USA,Rectum,Male,White,65,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,27.6,Overweight,Accident,WCME_453,"AMPHETAMINE, HEROIN, QUETIAPINE ",Drug,Non,Drug,Non
+67,2014-S132,WCME_454,USA,Eyes,Male,White,65,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,27.6,Overweight,Accident,WCME_454,"AMPHETAMINE, HEROIN, QUETIAPINE ",Drug,Non,Drug,Non
+68,2014-S132,WCME_452,USA,Ears,Male,White,65,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,27.6,Overweight,Accident,WCME_452,"AMPHETAMINE, HEROIN, QUETIAPINE ",Drug,Non,Drug,Non
+83,2014-S143,WCME_472,USA,Ears,Male,Black,66,58-67,43-67,53-88,Vehicular,Summer,Less48,25-48,23.5,Normal Weight,Accident,WCME_472,HEROIN AND COCAINE ABUSE,Drug,Non,Drug,Non
+84,2014-S143,WCME_477,USA,Mouth,Male,Black,66,58-67,43-67,53-88,Vehicular,Summer,Less48,25-48,23.5,Normal Weight,Accident,WCME_477,HEROIN AND COCAINE ABUSE,Drug,Non,Drug,Non
+85,2014-S143,WCME_473,USA,Rectum,Male,Black,66,58-67,43-67,53-88,Vehicular,Summer,Less48,25-48,23.5,Normal Weight,Accident,WCME_473,HEROIN AND COCAINE ABUSE,Drug,Non,Drug,Non
+86,2014-S143,WCME_474,USA,Eyes,Male,Black,66,58-67,43-67,53-88,Vehicular,Summer,Less48,25-48,23.5,Normal Weight,Accident,WCME_474,HEROIN AND COCAINE ABUSE,Drug,Non,Drug,Non
+87,2014-S143,WCME_476,USA,Nose,Male,Black,66,58-67,43-67,53-88,Vehicular,Summer,Less48,25-48,23.5,Normal Weight,Accident,WCME_476,HEROIN AND COCAINE ABUSE,Drug,Non,Drug,Non
+848,2015-S89,WCME_779,USA,Mouth,Male,Black,70,68-77,68-92,53-88,Outdoors,Spring,Less48,Less24,21.5,Normal Weight,Accident,WCME_779,HEROIN TOXICITY,Drug,Non,Drug,Non
+849,2015-S89,WCME_776,USA,Ears,Male,Black,70,68-77,68-92,53-88,Outdoors,Spring,Less48,Less24,21.5,Normal Weight,Accident,WCME_776,HEROIN TOXICITY,Drug,Non,Drug,Non
+850,2015-S89,WCME_777,USA,Eyes,Male,Black,70,68-77,68-92,53-88,Outdoors,Spring,Less48,Less24,21.5,Normal Weight,Accident,WCME_777,HEROIN TOXICITY,Drug,Non,Drug,Non
+851,2015-S89,WCME_778,USA,Nose,Male,Black,70,68-77,68-92,53-88,Outdoors,Spring,Less48,Less24,21.5,Normal Weight,Accident,WCME_778,HEROIN TOXICITY,Drug,Non,Drug,Non
+852,2015-S89,WCME_781,USA,Rectum,Male,Black,70,68-77,68-92,53-88,Outdoors,Spring,Less48,Less24,21.5,Normal Weight,Accident,WCME_781,HEROIN TOXICITY,Drug,Non,Drug,Non
+446,2015-S194,WCME_863,USA,Nose,Male,Black,23,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,30,Obese,Accident,WCME_863,PNEUMONIA,Other,Non,Other,Non
+447,2015-S194,WCME_861,USA,Ears,Male,Black,23,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,30,Obese,Accident,WCME_861,PNEUMONIA,Other,Non,Other,Non
+448,2015-S194,WCME_862,USA,Eyes,Male,Black,23,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,30,Obese,Accident,WCME_862,PNEUMONIA,Other,Non,Other,Non
+449,2015-S194,WCME_864,USA,Mouth,Male,Black,23,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,30,Obese,Accident,WCME_864,PNEUMONIA,Other,Non,Other,Non
+450,2015-S194,WCME_866,USA,Rectum,Male,Black,23,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,30,Obese,Accident,WCME_866,PNEUMONIA,Other,Violent,Other,Non
+148,2014-S300,WCME_493,USA,Rectum,Female,Black,30,28-37,18-42,18-52,Indoors,Autumn,Less48,25-48,27.6,Overweight,Homicide,WCME_493,STRANGULATION,Other,Violent,Asphyx,Non
+149,2014-S300,WCME_496,USA,Nose,Female,Black,30,28-37,18-42,18-52,Indoors,Autumn,Less48,25-48,27.6,Overweight,Homicide,WCME_496,STRANGULATION,Other,Violent,Asphyx,Non
+150,2014-S300,WCME_492,USA,Ears,Female,Black,30,28-37,18-42,18-52,Indoors,Autumn,Less48,25-48,27.6,Overweight,Homicide,WCME_492,STRANGULATION,Other,Violent,Asphyx,Non
+151,2014-S300,WCME_494,USA,Eyes,Female,Black,30,28-37,18-42,18-52,Indoors,Autumn,Less48,25-48,27.6,Overweight,Homicide,WCME_494,STRANGULATION,Other,Violent,Asphyx,Non
+152,2014-S300,WCME_497,USA,Mouth,Female,Black,30,28-37,18-42,18-52,Indoors,Autumn,Less48,25-48,27.6,Overweight,Homicide,WCME_497,STRANGULATION,Other,Violent,Asphyx,Non
+480,2015-S205,WCME_903,USA,Mouth,Female,White,31,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,20.2,Normal Weight,Homicide,WCME_903,BLUNT TRAUMA TO THE HEAD,Other,Violent,BFT,Non
+481,2015-S205,WCME_901,USA,Ears,Female,White,31,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,20.2,Normal Weight,Homicide,WCME_901,BLUNT TRAUMA TO THE HEAD,Other,Violent,BFT,Non
+482,2015-S205,WCME_902,USA,Eyes,Female,White,31,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,20.2,Normal Weight,Homicide,WCME_902,BLUNT TRAUMA TO THE HEAD,Other,Violent,BFT,Non
+483,2015-S205,WCME_905,USA,Rectum,Female,White,31,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,20.2,Normal Weight,Homicide,WCME_905,BLUNT TRAUMA TO THE HEAD,Other,Violent,BFT,Non
+69,2014-S14,WCME_71,USA,Ears,Male,Black,33,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,29.7,Overweight,Homicide,WCME_71,STABWOUND TO CHEST,Other,Violent,BFT,Non
+72,2014-S14,WCME_72,USA,Rectum,Male,Black,34,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,30.7,Obese,Homicide,WCME_72,STABWOUND TO CHEST,Other,Violent,BFT,Non
+70,2014-S14,WCME_73,USA,Eyes,Male,Black,35,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,31.7,Obese,Homicide,WCME_73,STABWOUND TO CHEST,Other,Violent,BFT,Non
+71,2014-S14,WCME_75,USA,Mouth,Male,Black,36,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,32.7,Obese,Homicide,WCME_75,STABWOUND TO CHEST,Other,Violent,BFT,Non
+649,2015-S484,WCME_1365,USA,Ears,Female,Black,43,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,26.4,Overweight,Homicide,WCME_1365,MULTIPLE SHARP FORCE INJURIES,Other,Violent,BFT,Non
+650,2015-S484,WCME_1298,USA,Eyes,Female,Black,43,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,26.4,Overweight,Homicide,WCME_1298,MULTIPLE SHARP FORCE INJURIES,Other,Violent,BFT,Non
+651,2015-S484,WCME_960,USA,Nose,Female,Black,43,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,26.4,Overweight,Homicide,WCME_960,MULTIPLE SHARP FORCE INJURIES,Other,Violent,BFT,Non
+652,2015-S484,WCME_1106,USA,Rectum,Female,Black,43,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,26.4,Overweight,Homicide,WCME_1106,MULTIPLE SHARP FORCE INJURIES,Other,Violent,BFT,Non
+653,2015-S484,WCME_1317,USA,Mouth,Female,Black,43,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,26.4,Overweight,Homicide,WCME_1317,MULTIPLE SHARP FORCE INJURIES,Other,Violent,BFT,Non
+601,2015-S437,WCME_1323,USA,Eyes,Male,Black,48,48-57,43-67,18-52,Hospital,Winter,Less48,Less24,12.7,Underweight,Homicide,WCME_1323,STAB WOUND TO THE CHEST,Other,Violent,BFT,Non
+602,2015-S437,WCME_1136,USA,Mouth,Male,Black,48,48-57,43-67,18-52,Hospital,Winter,Less48,Less24,12.7,Underweight,Homicide,WCME_1136,STAB WOUND TO THE CHEST,Other,Violent,BFT,Non
+603,2015-S437,WCME_1356,USA,Ears,Male,Black,48,48-57,43-67,18-52,Hospital,Winter,Less48,Less24,12.7,Underweight,Homicide,WCME_1356,STAB WOUND TO THE CHEST,Other,Violent,BFT,Non
+332,2014-S9,WCME_46,USA,Eyes,Female,White,49,48-57,43-67,18-52,Outdoors,Spring,Less48,25-48,26.8,Overweight,Homicide,WCME_46,MULTIPLE STAB WOUNDS,Other,Violent,BFT,Non
+333,2014-S9,WCME_48,USA,Nose,Female,White,49,48-57,43-67,18-52,Outdoors,Spring,Less48,25-48,26.8,Overweight,Homicide,WCME_48,MULTIPLE STAB WOUNDS,Other,Violent,BFT,Non
+334,2014-S9,WCME_45,USA,Rectum,Female,White,49,48-57,43-67,18-52,Outdoors,Spring,Less48,25-48,26.8,Overweight,Homicide,WCME_45,MULTIPLE STAB WOUNDS,Other,Violent,BFT,Non
+335,2014-S9,WCME_44,USA,Ears,Female,White,49,48-57,43-67,18-52,Outdoors,Spring,Less48,25-48,26.8,Overweight,Homicide,WCME_44,MULTIPLE STAB WOUNDS,Other,Violent,BFT,Non
+336,2014-S9,WCME_49,USA,Mouth,Female,White,49,48-57,43-67,18-52,Outdoors,Spring,Less48,25-48,26.8,Overweight,Homicide,WCME_49,MULTIPLE STAB WOUNDS,Other,Violent,BFT,Non
+579,2015-S410,WCME_1418,USA,Ears,Female,Black,54,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,26.6,Overweight,Homicide,WCME_1418,BLUNT FORCE HEAD TRAUMA,Other,Violent,BFT,Non
+580,2015-S410,WCME_1129,USA,Nose,Female,Black,54,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,26.6,Overweight,Homicide,WCME_1129,BLUNT FORCE HEAD TRAUMA,Other,Violent,BFT,Non
+581,2015-S410,WCME_1176,USA,Mouth,Female,Black,54,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,26.6,Overweight,Homicide,WCME_1176,BLUNT FORCE HEAD TRAUMA,Other,Violent,BFT,Non
+582,2015-S410,WCME_1307,USA,Eyes,Female,Black,54,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,26.6,Overweight,Homicide,WCME_1307,BLUNT FORCE HEAD TRAUMA,Other,Violent,BFT,Non
+609,2015-S442,WCME_1054,USA,Eyes,Female,White,56,48-57,43-67,53-88,Outdoors,Winter,Less48,Less24,29.7,Overweight,Homicide,WCME_1054,MULTIPLE INJURIES,Other,Violent,BFT,Non
+610,2015-S442,WCME_1010,USA,Mouth,Female,White,56,48-57,43-67,53-88,Outdoors,Winter,Less48,Less24,29.7,Overweight,Homicide,WCME_1010,MULTIPLE INJURIES,Other,Violent,BFT,Non
+611,2015-S442,WCME_987,USA,Nose,Female,White,56,48-57,43-67,53-88,Outdoors,Winter,Less48,Less24,29.7,Overweight,Homicide,WCME_987,MULTIPLE INJURIES,Other,Violent,BFT,Non
+612,2015-S442,WCME_1262,USA,Rectum,Female,White,56,48-57,43-67,53-88,Outdoors,Winter,Less48,Less24,29.7,Overweight,Homicide,WCME_1262,MULTIPLE INJURIES,Other,Violent,BFT,Non
+613,2015-S442,WCME_949,USA,Ears,Female,White,56,48-57,43-67,53-88,Outdoors,Winter,Less48,Less24,29.7,Overweight,Homicide,WCME_949,MULTIPLE INJURIES,Other,Violent,BFT,Non
+282,2014-S75,WCME_312,USA,Ears,Male,Black,65,58-67,43-67,53-88,Outdoors,Summer,Less48,Less24,22.2,Normal Weight,Homicide,WCME_312,BLUNT CHEST TRAUMA AND MANUAL STRANGULATION,Other,Violent,BFT,Non
+283,2014-S75,WCME_317,USA,Mouth,Male,Black,65,58-67,43-67,53-88,Outdoors,Summer,Less48,Less24,22.2,Normal Weight,Homicide,WCME_317,BLUNT CHEST TRAUMA AND MANUAL STRANGULATION,Other,Violent,BFT,Non
+284,2014-S75,WCME_313,USA,Rectum,Male,Black,65,58-67,43-67,53-88,Outdoors,Summer,Less48,Less24,22.2,Normal Weight,Homicide,WCME_313,BLUNT CHEST TRAUMA AND MANUAL STRANGULATION,Other,Violent,BFT,Non
+285,2014-S75,WCME_314,USA,Eyes,Male,Black,65,58-67,43-67,53-88,Outdoors,Summer,Less48,Less24,22.2,Normal Weight,Homicide,WCME_314,BLUNT CHEST TRAUMA AND MANUAL STRANGULATION,Other,Violent,BFT,Non
+286,2014-S75,WCME_316,USA,Nose,Male,Black,65,58-67,43-67,53-88,Outdoors,Summer,Less48,Less24,22.2,Normal Weight,Homicide,WCME_316,BLUNT CHEST TRAUMA AND MANUAL STRANGULATION,Other,Violent,BFT,Non
+413,2015-S175,WCME_1102,USA,Nose,Male,Black,18,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,28.2,Overweight,Homicide,WCME_1102,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+414,2015-S175,WCME_1114,USA,Rectum,Male,Black,18,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,28.2,Overweight,Homicide,WCME_1114,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+415,2015-S175,WCME_1321,USA,Ears,Male,Black,18,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,28.2,Overweight,Homicide,WCME_1321,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+416,2015-S175,WCME_1224,USA,Mouth,Male,Black,18,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,28.2,Overweight,Homicide,WCME_1224,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+417,2015-S175,WCME_1376,USA,Eyes,Male,Black,18,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,28.2,Overweight,Homicide,WCME_1376,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+455,2015-S197,WCME_882,USA,Rectum,Male,Black,20,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,43.9,Morbid Obesity,Homicide,WCME_882,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+456,2015-S197,WCME_877,USA,Ears,Male,Black,20,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,43.9,Morbid Obesity,Homicide,WCME_877,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+457,2015-S197,WCME_878,USA,Eyes,Male,Black,20,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,43.9,Morbid Obesity,Homicide,WCME_878,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+458,2015-S197,WCME_879,USA,Nose,Male,Black,20,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,43.9,Morbid Obesity,Homicide,WCME_879,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+459,2015-S197,WCME_880,USA,Mouth,Male,Black,20,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,43.9,Morbid Obesity,Homicide,WCME_880,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+515,2015-S25,WCME_569,USA,Mouth,Male,Black,21,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,29.8,Overweight,Homicide,WCME_569,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+516,2015-S25,WCME_568,USA,Nose,Male,Black,21,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,29.8,Overweight,Homicide,WCME_568,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+517,2015-S25,WCME_567,USA,Eyes,Male,Black,21,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,29.8,Overweight,Homicide,WCME_567,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+518,2015-S25,WCME_566,USA,Ears,Male,Black,21,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,29.8,Overweight,Homicide,WCME_566,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+519,2015-S25,WCME_570,USA,Rectum,Male,Black,21,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,29.8,Overweight,Homicide,WCME_570,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+224,2014-S5,WCME_22,USA,Nose,Male,Black,22,18-27,18-42,18-52,Outdoors,Spring,Less48,25-48,23.2,Normal Weight,Homicide,WCME_22,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+225,2014-S5,WCME_23,USA,Mouth,Male,Black,22,18-27,18-42,18-52,Outdoors,Spring,Less48,25-48,23.2,Normal Weight,Homicide,WCME_23,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+226,2014-S5,WCME_18,USA,Ears,Male,Black,22,18-27,18-42,18-52,Outdoors,Spring,Less48,25-48,23.2,Normal Weight,Homicide,WCME_18,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+227,2014-S5,WCME_20,USA,Eyes,Male,Black,22,18-27,18-42,18-52,Outdoors,Spring,Less48,25-48,23.2,Normal Weight,Homicide,WCME_20,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+228,2014-S5,WCME_19,USA,Rectum,Male,Black,22,18-27,18-42,18-52,Outdoors,Spring,Less48,25-48,23.2,Normal Weight,Homicide,WCME_19,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+352,2015-S1,WCME_512,USA,Eyes,Male,Black,22,18-27,18-42,18-52,Outdoors,Spring,More48,Great73,18.1,Underweight,Homicide,WCME_512,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+353,2015-S1,WCME_513,USA,Nose,Male,Black,22,18-27,18-42,18-52,Outdoors,Spring,More48,Great73,18.1,Underweight,Homicide,WCME_513,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+354,2015-S1,WCME_514,USA,Mouth,Male,Black,22,18-27,18-42,18-52,Outdoors,Spring,More48,Great73,18.1,Underweight,Homicide,WCME_514,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+355,2015-S1,WCME_516,USA,Rectum,Male,Black,22,18-27,18-42,18-52,Outdoors,Spring,More48,Great73,18.1,Underweight,Homicide,WCME_516,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+356,2015-S1,WCME_511,USA,Ears,Male,Black,22,18-27,18-42,18-52,Outdoors,Spring,More48,Great73,18.1,Underweight,Homicide,WCME_511,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+20,2014-S111,WCME_413,USA,Eyes,Female,Black,24,18-27,18-42,18-52,Outdoors,Summer,Less48,Less24,unknown,Unknown,Homicide,WCME_413,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+21,2014-S111,WCME_411,USA,Ears,Female,Black,24,18-27,18-42,18-52,Outdoors,Summer,Less48,Less24,unknown,Unknown,Homicide,WCME_411,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+22,2014-S111,WCME_415,USA,Nose,Female,Black,24,18-27,18-42,18-52,Outdoors,Summer,Less48,Less24,unknown,Unknown,Homicide,WCME_415,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+23,2014-S111,WCME_412,USA,Rectum,Female,Black,24,18-27,18-42,18-52,Outdoors,Summer,Less48,Less24,unknown,Unknown,Homicide,WCME_412,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+24,2014-S111,WCME_416,USA,Mouth,Female,Black,24,18-27,18-42,18-52,Outdoors,Summer,Less48,Less24,unknown,Unknown,Homicide,WCME_416,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+322,2014-S85,WCME_373,USA,Eyes,Male,Black,24,18-27,18-42,18-52,Outdoors,Summer,Less48,Less24,28.1,Overweight,Homicide,WCME_373,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+323,2014-S85,WCME_372,USA,Rectum,Male,Black,24,18-27,18-42,18-52,Outdoors,Summer,Less48,Less24,28.1,Overweight,Homicide,WCME_372,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+324,2014-S85,WCME_371,USA,Ears,Male,Black,24,18-27,18-42,18-52,Outdoors,Summer,Less48,Less24,28.1,Overweight,Homicide,WCME_371,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+325,2014-S85,WCME_375,USA,Nose,Male,Black,24,18-27,18-42,18-52,Outdoors,Summer,Less48,Less24,28.1,Overweight,Homicide,WCME_375,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+326,2014-S85,WCME_376,USA,Mouth,Male,Black,24,18-27,18-42,18-52,Outdoors,Summer,Less48,Less24,28.1,Overweight,Homicide,WCME_376,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+470,2015-S203,WCME_890,USA,Rectum,Male,Black,24,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,unknown,Unknown,Homicide,WCME_890,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+471,2015-S203,WCME_885,USA,Ears,Male,Black,24,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,unknown,Unknown,Homicide,WCME_885,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+472,2015-S203,WCME_887,USA,Nose,Male,Black,24,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,unknown,Unknown,Homicide,WCME_887,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+473,2015-S203,WCME_888,USA,Mouth,Male,Black,24,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,unknown,Unknown,Homicide,WCME_888,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+474,2015-S203,WCME_886,USA,Eyes,Male,Black,24,18-27,18-42,18-52,Vehicular,Spring,Less48,Less24,unknown,Unknown,Homicide,WCME_886,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+680,2015-S51,WCME_665,USA,Rectum,Male,Black,25,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,35.2,Severe Obesity,Homicide,WCME_665,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+681,2015-S51,WCME_660,USA,Ears,Male,Black,25,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,35.2,Severe Obesity,Homicide,WCME_660,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+682,2015-S51,WCME_661,USA,Eyes,Male,Black,25,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,35.2,Severe Obesity,Homicide,WCME_661,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+683,2015-S51,WCME_663,USA,Mouth,Male,Black,25,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,35.2,Severe Obesity,Homicide,WCME_663,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+684,2015-S51,WCME_662,USA,Nose,Male,Black,25,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,35.2,Severe Obesity,Homicide,WCME_662,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+441,2015-S193,WCME_855,USA,Eyes,Male,Black,26,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,22.7,Normal Weight,Homicide,WCME_855,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+442,2015-S193,WCME_854,USA,Ears,Male,Black,26,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,22.7,Normal Weight,Homicide,WCME_854,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+443,2015-S193,WCME_857,USA,Mouth,Male,Black,26,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,22.7,Normal Weight,Homicide,WCME_857,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+444,2015-S193,WCME_858,USA,Rectum,Male,Black,26,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,22.7,Normal Weight,Homicide,WCME_858,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+445,2015-S193,WCME_856,USA,Nose,Male,Black,26,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,22.7,Normal Weight,Homicide,WCME_856,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+796,2015-S67,WCME_699,USA,Ears,Male,Black,26,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,27,Overweight,Homicide,WCME_699,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+797,2015-S67,WCME_704,USA,Rectum,Male,Black,26,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,27,Overweight,Homicide,WCME_704,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+798,2015-S67,WCME_702,USA,Mouth,Male,Black,26,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,27,Overweight,Homicide,WCME_702,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+799,2015-S67,WCME_701,USA,Nose,Male,Black,26,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,27,Overweight,Homicide,WCME_701,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+800,2015-S67,WCME_700,USA,Eyes,Male,Black,26,18-27,18-42,18-52,Hospital,Spring,Less48,25-48,27,Overweight,Homicide,WCME_700,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+772,2015-S596,WCME_1186,USA,Ears,Male,Black,26,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,36,Severe Obesity,Homicide,WCME_1186,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+773,2015-S596,WCME_1346,USA,Eyes,Male,Black,26,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,36,Severe Obesity,Homicide,WCME_1346,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+774,2015-S596,WCME_1169,USA,Mouth,Male,Black,26,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,36,Severe Obesity,Homicide,WCME_1169,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+775,2015-S596,WCME_1318,USA,Rectum,Male,Black,26,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,36,Severe Obesity,Homicide,WCME_1318,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+776,2015-S596,WCME_1211,USA,Nose,Male,Black,26,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,36,Severe Obesity,Homicide,WCME_1211,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+576,2015-S4,WCME_1180,USA,Ears,Male,Black,27,18-27,18-42,18-52,Vehicular,Spring,Less48,25-48,26.5,Overweight,Homicide,WCME_1180,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+577,2015-S4,WCME_1247,USA,Mouth,Male,Black,27,18-27,18-42,18-52,Vehicular,Spring,Less48,25-48,26.5,Overweight,Homicide,WCME_1247,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+578,2015-S4,WCME_1210,USA,Nose,Male,Black,27,18-27,18-42,18-52,Vehicular,Spring,Less48,25-48,26.5,Overweight,Homicide,WCME_1210,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+571,2015-S396,WCME_1349,USA,Ears,Male,Black,27,18-27,18-42,18-52,Outdoors,Autumn,Less48,Less24,21.4,Normal Weight,Homicide,WCME_1349,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+572,2015-S396,WCME_1165,USA,Mouth,Male,Black,27,18-27,18-42,18-52,Outdoors,Autumn,Less48,Less24,21.4,Normal Weight,Homicide,WCME_1165,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+573,2015-S396,WCME_1041,USA,Nose,Male,Black,27,18-27,18-42,18-52,Outdoors,Autumn,Less48,Less24,21.4,Normal Weight,Homicide,WCME_1041,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+574,2015-S396,WCME_1285,USA,Rectum,Male,Black,27,18-27,18-42,18-52,Outdoors,Autumn,Less48,Less24,21.4,Normal Weight,Homicide,WCME_1285,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+575,2015-S396,WCME_1128,USA,Eyes,Male,Black,27,18-27,18-42,18-52,Outdoors,Autumn,Less48,Less24,21.4,Normal Weight,Homicide,WCME_1128,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+102,2014-S19,WCME_89,USA,Mouth,Male,Black,28,28-37,18-42,18-52,Outdoors,Spring,Less48,Less24,24,Normal Weight,Homicide,WCME_89,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+103,2014-S19,WCME_85,USA,Rectum,Male,Black,28,28-37,18-42,18-52,Outdoors,Spring,Less48,Less24,24,Normal Weight,Homicide,WCME_85,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+104,2014-S19,WCME_86,USA,Eyes,Male,Black,28,28-37,18-42,18-52,Outdoors,Spring,Less48,Less24,24,Normal Weight,Homicide,WCME_86,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+105,2014-S19,WCME_84,USA,Ears,Male,Black,28,28-37,18-42,18-52,Outdoors,Spring,Less48,Less24,24,Normal Weight,Homicide,WCME_84,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+106,2014-S19,WCME_88,USA,Nose,Male,Black,28,28-37,18-42,18-52,Outdoors,Spring,Less48,Less24,24,Normal Weight,Homicide,WCME_88,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+374,2015-S141,WCME_831,USA,Ears,Male,Black,30,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,21.6,Normal Weight,Homicide,WCME_831,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+375,2015-S141,WCME_832,USA,Eyes,Male,Black,30,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,21.6,Normal Weight,Homicide,WCME_832,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+376,2015-S141,WCME_834,USA,Mouth,Male,Black,30,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,21.6,Normal Weight,Homicide,WCME_834,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+377,2015-S141,WCME_836,USA,Rectum,Male,Black,30,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,21.6,Normal Weight,Homicide,WCME_836,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+378,2015-S141,WCME_833,USA,Nose,Male,Black,30,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,21.6,Normal Weight,Homicide,WCME_833,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+126,2014-S24,WCME_113,USA,Ears,Male,Black,32,28-37,18-42,18-52,Outdoors,Spring,Less48,25-48,22.6,Normal Weight,Homicide,WCME_113,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+127,2014-S24,WCME_114,USA,Rectum,Male,Black,32,28-37,18-42,18-52,Outdoors,Spring,Less48,25-48,22.6,Normal Weight,Homicide,WCME_114,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+128,2014-S24,WCME_117,USA,Nose,Male,Black,32,28-37,18-42,18-52,Outdoors,Spring,Less48,25-48,22.6,Normal Weight,Homicide,WCME_117,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+129,2014-S24,WCME_118,USA,Mouth,Male,Black,32,28-37,18-42,18-52,Outdoors,Spring,Less48,25-48,22.6,Normal Weight,Homicide,WCME_118,GUNSHOT WOUND TO HEAD ,Gunshot,Violent,Gunshot,Non
+292,2014-S79,WCME_333,USA,Eyes,Male,Black,32,28-37,18-42,18-52,Vehicular,Summer,Less48,Less24,28.9,Overweight,Homicide,WCME_333,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+293,2014-S79,WCME_332,USA,Rectum,Male,Black,32,28-37,18-42,18-52,Vehicular,Summer,Less48,Less24,28.9,Overweight,Homicide,WCME_332,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+294,2014-S79,WCME_335,USA,Nose,Male,Black,32,28-37,18-42,18-52,Vehicular,Summer,Less48,Less24,28.9,Overweight,Homicide,WCME_335,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+295,2014-S79,WCME_331,USA,Ears,Male,Black,32,28-37,18-42,18-52,Vehicular,Summer,Less48,Less24,28.9,Overweight,Homicide,WCME_331,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+296,2014-S79,WCME_336,USA,Mouth,Male,Black,32,28-37,18-42,18-52,Vehicular,Summer,Less48,Less24,28.9,Overweight,Homicide,WCME_336,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+716,2015-S559,WCME_1310,USA,Ears,Male,Black,33,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,40.3,Morbid Obesity,Homicide,WCME_1310,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+717,2015-S559,WCME_1255,USA,Nose,Male,Black,33,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,40.3,Morbid Obesity,Homicide,WCME_1255,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+718,2015-S559,WCME_984,USA,Eyes,Male,Black,33,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,40.3,Morbid Obesity,Homicide,WCME_984,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+719,2015-S559,WCME_1270,USA,Mouth,Male,Black,33,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,40.3,Morbid Obesity,Homicide,WCME_1270,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+720,2015-S559,WCME_1272,USA,Rectum,Male,Black,33,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,40.3,Morbid Obesity,Homicide,WCME_1272,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+815,2015-S74,WCME_727,USA,Rectum,Male,Black,34,28-37,18-42,18-52,Hospital,Winter,Less48,25-48,33.5,Obese,Homicide,WCME_727,REMOTE GUNSHOT WOUND(S) WITH COMPLICATIONS,Gunshot,Violent,Gunshot,Non
+816,2015-S74,WCME_723,USA,Eyes,Male,Black,34,28-37,18-42,18-52,Hospital,Winter,Less48,25-48,33.5,Obese,Homicide,WCME_723,REMOTE GUNSHOT WOUND(S) WITH COMPLICATIONS,Gunshot,Violent,Gunshot,Non
+817,2015-S74,WCME_725,USA,Mouth,Male,Black,34,28-37,18-42,18-52,Hospital,Winter,Less48,25-48,33.5,Obese,Homicide,WCME_725,REMOTE GUNSHOT WOUND(S) WITH COMPLICATIONS,Gunshot,Violent,Gunshot,Non
+818,2015-S74,WCME_724,USA,Nose,Male,Black,34,28-37,18-42,18-52,Hospital,Winter,Less48,25-48,33.5,Obese,Homicide,WCME_724,REMOTE GUNSHOT WOUND(S) WITH COMPLICATIONS,Gunshot,Violent,Gunshot,Non
+819,2015-S74,WCME_722,USA,Ears,Male,Black,34,28-37,18-42,18-52,Hospital,Winter,Less48,25-48,33.5,Obese,Homicide,WCME_722,REMOTE GUNSHOT WOUND(S) WITH COMPLICATIONS,Gunshot,Violent,Gunshot,Non
+740,2015-S577,WCME_1394,USA,Ears,Male,Black,37,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,28.4,Overweight,Homicide,WCME_1394,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+741,2015-S577,WCME_1133,USA,Eyes,Male,Black,37,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,28.4,Overweight,Homicide,WCME_1133,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+742,2015-S577,WCME_1160,USA,Mouth,Male,Black,37,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,28.4,Overweight,Homicide,WCME_1160,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+743,2015-S577,WCME_975,USA,Nose,Male,Black,37,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,28.4,Overweight,Homicide,WCME_975,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+504,2015-S217,WCME_1097,USA,Rectum,Female,Black,40,38-47,18-42,18-52,Outdoors,Spring,Less48,25-48,27.4,Overweight,Homicide,WCME_1097,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+505,2015-S217,WCME_1300,USA,Eyes,Female,Black,40,38-47,18-42,18-52,Outdoors,Spring,Less48,25-48,27.4,Overweight,Homicide,WCME_1300,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+418,2015-S176,WCME_840,USA,Eyes,Male,Black,43,38-47,43-67,18-52,Indoors,Spring,More48,49-72,33.4,Obese,Homicide,WCME_840,MULTIPLE GUNSHOT WOUNDS TO HEAD,Gunshot,Violent,Gunshot,Non
+419,2015-S176,WCME_843,USA,Rectum,Male,Black,43,38-47,43-67,18-52,Indoors,Spring,More48,49-72,33.4,Obese,Homicide,WCME_843,MULTIPLE GUNSHOT WOUNDS TO HEAD,Gunshot,Violent,Gunshot,Non
+420,2015-S176,WCME_841,USA,Nose,Male,Black,43,38-47,43-67,18-52,Indoors,Spring,More48,49-72,33.4,Obese,Homicide,WCME_841,MULTIPLE GUNSHOT WOUNDS TO HEAD,Gunshot,Violent,Gunshot,Non
+421,2015-S176,WCME_839,USA,Ears,Male,Black,43,38-47,43-67,18-52,Indoors,Spring,More48,49-72,33.4,Obese,Homicide,WCME_839,MULTIPLE GUNSHOT WOUNDS TO HEAD,Gunshot,Violent,Gunshot,Non
+422,2015-S176,WCME_842,USA,Mouth,Male,Black,43,38-47,43-67,18-52,Indoors,Spring,More48,49-72,33.4,Obese,Homicide,WCME_842,MULTIPLE GUNSHOT WOUNDS TO HEAD,Gunshot,Violent,Gunshot,Non
+327,2014-S88,WCME_379,USA,Rectum,Male,Black,43,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,25,Overweight,Homicide,WCME_379,MULTIPLE GUNSHOT WOUNDS   ,Gunshot,Violent,Gunshot,Non
+328,2014-S88,WCME_380,USA,Eyes,Male,Black,43,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,25,Overweight,Homicide,WCME_380,MULTIPLE GUNSHOT WOUNDS   ,Gunshot,Violent,Gunshot,Non
+329,2014-S88,WCME_383,USA,Mouth,Male,Black,43,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,25,Overweight,Homicide,WCME_383,MULTIPLE GUNSHOT WOUNDS   ,Gunshot,Violent,Gunshot,Non
+330,2014-S88,WCME_378,USA,Ears,Male,Black,43,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,25,Overweight,Homicide,WCME_378,MULTIPLE GUNSHOT WOUNDS   ,Gunshot,Violent,Gunshot,Non
+331,2014-S88,WCME_382,USA,Nose,Male,Black,43,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,25,Overweight,Homicide,WCME_382,MULTIPLE GUNSHOT WOUNDS   ,Gunshot,Violent,Gunshot,Non
+753,2015-S582,WCME_1203,USA,Mouth,Female,Black,43,38-47,43-67,18-52,Hospital,Winter,Less48,Less24,19,Normal Weight,Homicide,WCME_1203,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+754,2015-S582,WCME_1329,USA,Eyes,Female,Black,43,38-47,43-67,18-52,Hospital,Winter,Less48,Less24,19,Normal Weight,Homicide,WCME_1329,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+755,2015-S582,WCME_1334,USA,Ears,Female,Black,43,38-47,43-67,18-52,Hospital,Winter,Less48,Less24,19,Normal Weight,Homicide,WCME_1334,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+756,2015-S582,WCME_1068,USA,Nose,Female,Black,43,38-47,43-67,18-52,Hospital,Winter,Less48,Less24,19,Normal Weight,Homicide,WCME_1068,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+757,2015-S582,WCME_1291,USA,Rectum,Female,Black,43,38-47,43-67,18-52,Hospital,Winter,Less48,Less24,19,Normal Weight,Homicide,WCME_1291,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Non
+619,2015-S460,WCME_1127,USA,Rectum,Male,White,48,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,24.7,Normal Weight,Homicide,WCME_1127,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+620,2015-S460,WCME_1067,USA,Mouth,Male,White,48,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,24.7,Normal Weight,Homicide,WCME_1067,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+621,2015-S460,WCME_1146,USA,Eyes,Male,White,48,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,24.7,Normal Weight,Homicide,WCME_1146,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+622,2015-S460,WCME_1034,USA,Nose,Male,White,48,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,24.7,Normal Weight,Homicide,WCME_1034,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+623,2015-S460,WCME_1267,USA,Ears,Male,White,48,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,24.7,Normal Weight,Homicide,WCME_1267,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+423,2015-S180,WCME_946,USA,Nose,Male,White,60,58-67,43-67,53-88,Outdoors,Spring,Less48,Less24,29,Overweight,Homicide,WCME_946,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+424,2015-S180,WCME_1253,USA,Ears,Male,White,60,58-67,43-67,53-88,Outdoors,Spring,Less48,Less24,29,Overweight,Homicide,WCME_1253,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+425,2015-S180,WCME_956,USA,Mouth,Male,White,60,58-67,43-67,53-88,Outdoors,Spring,Less48,Less24,29,Overweight,Homicide,WCME_956,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+426,2015-S180,WCME_1029,USA,Eyes,Male,White,60,58-67,43-67,53-88,Outdoors,Spring,Less48,Less24,29,Overweight,Homicide,WCME_1029,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+427,2015-S180,WCME_1074,USA,Rectum,Male,White,60,58-67,43-67,53-88,Outdoors,Spring,Less48,Less24,29,Overweight,Homicide,WCME_1074,MULTIPLE GUNSHOT WOUNDS,Gunshot,Violent,Gunshot,Non
+634,2015-S475,WCME_1124,USA,Mouth,Female,Black,62,58-67,43-67,53-88,Vehicular,Winter,Less48,Less24,22.9,Normal Weight,Homicide,WCME_1124,GUNSHOT WOUND TO CHEST,Gunshot,Violent,Gunshot,Non
+635,2015-S475,WCME_1364,USA,Eyes,Female,Black,62,58-67,43-67,53-88,Vehicular,Winter,Less48,Less24,22.9,Normal Weight,Homicide,WCME_1364,GUNSHOT WOUND TO CHEST,Gunshot,Violent,Gunshot,Non
+636,2015-S475,WCME_1274,USA,Rectum,Female,Black,62,58-67,43-67,53-88,Vehicular,Winter,Less48,Less24,22.9,Normal Weight,Homicide,WCME_1274,GUNSHOT WOUND TO CHEST,Gunshot,Violent,Gunshot,Non
+637,2015-S475,WCME_1427,USA,Ears,Female,Black,62,58-67,43-67,53-88,Vehicular,Winter,Less48,Less24,22.9,Normal Weight,Homicide,WCME_1427,GUNSHOT WOUND TO CHEST,Gunshot,Violent,Gunshot,Non
+638,2015-S475,WCME_1305,USA,Nose,Female,Black,62,58-67,43-67,53-88,Vehicular,Winter,Less48,Less24,22.9,Normal Weight,Homicide,WCME_1305,GUNSHOT WOUND TO CHEST,Gunshot,Violent,Gunshot,Non
+600,2015-S437,WCME_1167,USA,Nose,Male,Black,48,48-57,43-67,18-52,Hospital,Winter,Less48,Less24,12.7,Underweight,Homicide,WCME_1167,STAB WOUND TO THE CHEST,Other,Violent,BFT,Non
+853,2015-S92,WCME_784,USA,Ears,Female,Black,24,18-27,18-42,18-52,Hospital,Spring,Less48,Less24,27,Overweight,Natural,WCME_784,PERIPARTUM DILATED CARDIOMYOPATHY,Cardio,Non,Cardio,Non
+854,2015-S92,WCME_787,USA,Mouth,Female,Black,24,18-27,18-42,18-52,Hospital,Spring,Less48,Less24,27,Overweight,Natural,WCME_787,PERIPARTUM DILATED CARDIOMYOPATHY,Cardio,Non,Cardio,Non
+855,2015-S92,WCME_786,USA,Nose,Female,Black,24,18-27,18-42,18-52,Hospital,Spring,Less48,Less24,27,Overweight,Natural,WCME_786,PERIPARTUM DILATED CARDIOMYOPATHY,Cardio,Non,Cardio,Non
+856,2015-S92,WCME_789,USA,Rectum,Female,Black,24,18-27,18-42,18-52,Hospital,Spring,Less48,Less24,27,Overweight,Natural,WCME_789,PERIPARTUM DILATED CARDIOMYOPATHY,Cardio,Non,Cardio,Non
+857,2015-S92,WCME_785,USA,Eyes,Female,Black,24,18-27,18-42,18-52,Hospital,Spring,Less48,Less24,27,Overweight,Natural,WCME_785,PERIPARTUM DILATED CARDIOMYOPATHY,Cardio,Non,Cardio,Non
+145,2014-S3,WCME_13,USA,Eyes,Female,Black,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,21.3,Normal Weight,Natural,WCME_13,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+146,2014-S3,WCME_15,USA,Nose,Female,Black,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,21.3,Normal Weight,Natural,WCME_15,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+147,2014-S3,WCME_16,USA,Mouth,Female,Black,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,21.3,Normal Weight,Natural,WCME_16,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+40,2014-S119,WCME_438,USA,Ears,Female,White,42,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,35.3,Severe Obesity,Natural,WCME_438,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+41,2014-S119,WCME_442,USA,Nose,Female,White,42,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,35.3,Severe Obesity,Natural,WCME_442,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+42,2014-S119,WCME_440,USA,Eyes,Female,White,42,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,35.3,Severe Obesity,Natural,WCME_440,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+43,2014-S119,WCME_439,USA,Rectum,Female,White,42,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,35.3,Severe Obesity,Natural,WCME_439,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+44,2014-S119,WCME_443,USA,Mouth,Female,White,42,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,35.3,Severe Obesity,Natural,WCME_443,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+107,2014-S2,WCME_6,USA,Ears,Female,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,45.8,Morbid Obesity,Natural,WCME_6,HYPERTROPHIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+108,2014-S2,WCME_9,USA,Nose,Female,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,45.8,Morbid Obesity,Natural,WCME_9,HYPERTROPHIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+109,2014-S2,WCME_10,USA,Mouth,Female,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,45.8,Morbid Obesity,Natural,WCME_10,HYPERTROPHIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+110,2014-S2,WCME_7,USA,Rectum,Female,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,45.8,Morbid Obesity,Natural,WCME_7,HYPERTROPHIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+111,2014-S2,WCME_8,USA,Eyes,Female,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,45.8,Morbid Obesity,Natural,WCME_8,HYPERTROPHIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+699,2015-S527,WCME_1008,USA,Mouth,Female,Black,42,38-47,18-42,18-52,Hospital,Winter,Less48,Less24,45.7,Morbid Obesity,Natural,WCME_1008,HYPERTENSIVE Cardio DISEASE CHRONIC RENAL FAILURE DIABETES MELLITUS,Cardio,Non,Cardio,Non
+700,2015-S527,WCME_1092,USA,Eyes,Female,Black,42,38-47,18-42,18-52,Hospital,Winter,Less48,Less24,45.7,Morbid Obesity,Natural,WCME_1092,HYPERTENSIVE Cardio DISEASE CHRONIC RENAL FAILURE DIABETES MELLITUS,Cardio,Non,Cardio,Non
+701,2015-S527,WCME_1142,USA,Rectum,Female,Black,42,38-47,18-42,18-52,Hospital,Winter,Less48,Less24,45.7,Morbid Obesity,Natural,WCME_1142,HYPERTENSIVE Cardio DISEASE CHRONIC RENAL FAILURE DIABETES MELLITUS,Cardio,Non,Cardio,Non
+702,2015-S527,WCME_1080,USA,Nose,Female,Black,42,38-47,18-42,18-52,Hospital,Winter,Less48,Less24,45.7,Morbid Obesity,Natural,WCME_1080,HYPERTENSIVE Cardio DISEASE CHRONIC RENAL FAILURE DIABETES MELLITUS,Cardio,Non,Cardio,Non
+703,2015-S527,WCME_1403,USA,Ears,Female,Black,42,38-47,18-42,18-52,Hospital,Winter,Less48,Less24,45.7,Morbid Obesity,Natural,WCME_1403,HYPERTENSIVE Cardio DISEASE CHRONIC RENAL FAILURE DIABETES MELLITUS,Cardio,Non,Cardio,Non
+55,2014-S13,WCME_66,USA,Eyes,Male,White,43,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,27.4,Overweight,Natural,WCME_66,HYPERTENSIVE AND ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+56,2014-S13,WCME_65,USA,Rectum,Male,White,43,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,27.4,Overweight,Natural,WCME_65,HYPERTENSIVE AND ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+57,2014-S13,WCME_64,USA,Ears,Male,White,43,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,27.4,Overweight,Natural,WCME_64,HYPERTENSIVE AND ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+58,2014-S13,WCME_68,USA,Nose,Male,White,43,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,27.4,Overweight,Natural,WCME_68,HYPERTENSIVE AND ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+59,2014-S13,WCME_69,USA,Mouth,Male,White,43,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,27.4,Overweight,Natural,WCME_69,HYPERTENSIVE AND ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+193,2014-S40,WCME_187,USA,Nose,Female,White,44,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,44.1,Morbid Obesity,Natural,WCME_187,ACUTE MYOCARDIAL INFARCTION,Cardio,Non,Cardio,Non
+194,2014-S40,WCME_184,USA,Rectum,Female,White,44,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,44.1,Morbid Obesity,Natural,WCME_184,ACUTE MYOCARDIAL INFARCTION,Cardio,Non,Cardio,Non
+195,2014-S40,WCME_185,USA,Eyes,Female,White,44,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,44.1,Morbid Obesity,Natural,WCME_185,ACUTE MYOCARDIAL INFARCTION,Cardio,Non,Cardio,Non
+196,2014-S40,WCME_188,USA,Mouth,Female,White,44,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,44.1,Morbid Obesity,Natural,WCME_188,ACUTE MYOCARDIAL INFARCTION,Cardio,Non,Cardio,Non
+88,2014-S146,WCME_480,USA,Rectum,Male,Black,45,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,48.1,Morbid Obesity,Natural,WCME_480,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+89,2014-S146,WCME_479,USA,Ears,Male,Black,45,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,48.1,Morbid Obesity,Natural,WCME_479,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+90,2014-S146,WCME_484,USA,Mouth,Male,Black,45,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,48.1,Morbid Obesity,Natural,WCME_484,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+91,2014-S146,WCME_481,USA,Eyes,Male,Black,45,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,48.1,Morbid Obesity,Natural,WCME_481,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+92,2014-S146,WCME_483,USA,Nose,Male,Black,45,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,48.1,Morbid Obesity,Natural,WCME_483,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+438,2015-S186,WCME_1320,USA,Mouth,Female,White,46,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,31.2,Obese,Natural,WCME_1320,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+439,2015-S186,WCME_1377,USA,Ears,Female,White,46,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,31.2,Obese,Natural,WCME_1377,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+440,2015-S186,WCME_1392,USA,Eyes,Female,White,46,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,31.2,Obese,Natural,WCME_1392,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+384,2015-S150,WCME_1035,USA,Nose,Female,White,47,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,30.7,Obese,Natural,WCME_1035,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+385,2015-S150,WCME_1319,USA,Rectum,Female,White,47,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,30.7,Obese,Natural,WCME_1319,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+386,2015-S150,WCME_1407,USA,Ears,Female,White,47,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,30.7,Obese,Natural,WCME_1407,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+387,2015-S150,WCME_1024,USA,Mouth,Female,White,47,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,30.7,Obese,Natural,WCME_1024,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+388,2015-S150,WCME_997,USA,Eyes,Female,White,47,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,30.7,Obese,Natural,WCME_997,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+583,2015-S417,WCME_1023,USA,Nose,Female,Black,47,38-47,43-67,18-52,Indoors,Autumn,Less48,Less24,26.6,Overweight,Natural,WCME_1023,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+584,2015-S417,WCME_1440,USA,Ears,Female,Black,47,38-47,43-67,18-52,Indoors,Autumn,Less48,Less24,26.6,Overweight,Natural,WCME_1440,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+585,2015-S417,WCME_1296,USA,Eyes,Female,Black,47,38-47,43-67,18-52,Indoors,Autumn,Less48,Less24,26.6,Overweight,Natural,WCME_1296,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+586,2015-S417,WCME_1093,USA,Rectum,Female,Black,47,38-47,43-67,18-52,Indoors,Autumn,Less48,Less24,26.6,Overweight,Natural,WCME_1093,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+60,2014-S130,WCME_445,USA,Ears,Male,White,48,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,38.6,Severe Obesity,Natural,WCME_445,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+61,2014-S130,WCME_449,USA,Nose,Male,White,48,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,38.6,Severe Obesity,Natural,WCME_449,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+62,2014-S130,WCME_446,USA,Rectum,Male,White,48,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,38.6,Severe Obesity,Natural,WCME_446,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+63,2014-S130,WCME_447,USA,Eyes,Male,White,48,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,38.6,Severe Obesity,Natural,WCME_447,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+229,2014-S51,WCME_267,USA,Rectum,Male,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,34,Obese,Natural,WCME_267,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+230,2014-S51,WCME_235,USA,Nose,Male,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,34,Obese,Natural,WCME_235,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+231,2014-S51,WCME_282,USA,Ears,Male,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,34,Obese,Natural,WCME_282,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+232,2014-S51,WCME_266,USA,Eyes,Male,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,34,Obese,Natural,WCME_266,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+379,2015-S15,WCME_540,USA,Rectum,Male,White,49,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,39.6,Severe Obesity,Natural,WCME_540,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+380,2015-S15,WCME_538,USA,Mouth,Male,White,49,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,39.6,Severe Obesity,Natural,WCME_538,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+381,2015-S15,WCME_537,USA,Nose,Male,White,49,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,39.6,Severe Obesity,Natural,WCME_537,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+382,2015-S15,WCME_535,USA,Ears,Male,White,49,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,39.6,Severe Obesity,Natural,WCME_535,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+383,2015-S15,WCME_536,USA,Eyes,Male,White,49,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,39.6,Severe Obesity,Natural,WCME_536,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+116,2014-S21,WCME_100,USA,Rectum,Male,Black,50,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,19.1,Normal Weight,Natural,WCME_100,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+117,2014-S21,WCME_104,USA,Mouth,Male,Black,50,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,19.1,Normal Weight,Natural,WCME_104,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+118,2014-S21,WCME_103,USA,Nose,Male,Black,50,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,19.1,Normal Weight,Natural,WCME_103,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+119,2014-S21,WCME_101,USA,Eyes,Male,Black,50,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,19.1,Normal Weight,Natural,WCME_101,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+120,2014-S21,WCME_99,USA,Ears,Male,Black,50,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,19.1,Normal Weight,Natural,WCME_99,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+5,2014-S10,WCME_51,USA,Ears,Male,Black,51,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,27.5,Overweight,Natural,WCME_51,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+6,2014-S10,WCME_56,USA,Mouth,Male,Black,51,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,27.5,Overweight,Natural,WCME_56,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+7,2014-S10,WCME_55,USA,Nose,Male,Black,51,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,27.5,Overweight,Natural,WCME_55,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+8,2014-S10,WCME_52,USA,Rectum,Male,Black,51,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,27.5,Overweight,Natural,WCME_52,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+9,2014-S10,WCME_53,USA,Eyes,Male,Black,51,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,27.5,Overweight,Natural,WCME_53,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+433,2015-S185,WCME_1147,USA,Eyes,Female,Black,52,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,37,Severe Obesity,Natural,WCME_1147,DILATED CARDIOMYOPATHY,Cardio,Non,Cardio,Non
+434,2015-S185,WCME_1388,USA,Ears,Female,Black,52,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,37,Severe Obesity,Natural,WCME_1388,DILATED CARDIOMYOPATHY,Cardio,Non,Cardio,Non
+435,2015-S185,WCME_1006,USA,Nose,Female,Black,52,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,37,Severe Obesity,Natural,WCME_1006,DILATED CARDIOMYOPATHY,Cardio,Non,Cardio,Non
+436,2015-S185,WCME_1056,USA,Mouth,Female,Black,52,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,37,Severe Obesity,Natural,WCME_1056,DILATED CARDIOMYOPATHY,Cardio,Non,Cardio,Non
+437,2015-S185,WCME_1123,USA,Rectum,Female,Black,52,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,37,Severe Obesity,Natural,WCME_1123,DILATED CARDIOMYOPATHY,Cardio,Non,Cardio,Non
+671,2015-S494,WCME_1265,USA,Mouth,Male,White,52,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,33.1,Obese,Natural,WCME_1265,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+672,2015-S494,WCME_1266,USA,Rectum,Male,White,52,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,33.1,Obese,Natural,WCME_1266,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+673,2015-S494,WCME_1286,USA,Eyes,Male,White,52,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,33.1,Obese,Natural,WCME_1286,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+674,2015-S494,WCME_1112,USA,Nose,Male,White,52,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,33.1,Obese,Natural,WCME_1112,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+721,2015-S568,WCME_1057,USA,Rectum,Male,White,53,48-57,43-67,53-88,Indoors,Winter,Less48,25-48,25.1,Overweight,Natural,WCME_1057,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+722,2015-S568,WCME_951,USA,Eyes,Male,White,53,48-57,43-67,53-88,Indoors,Winter,Less48,25-48,25.1,Overweight,Natural,WCME_951,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+723,2015-S568,WCME_1360,USA,Ears,Male,White,53,48-57,43-67,53-88,Indoors,Winter,Less48,25-48,25.1,Overweight,Natural,WCME_1360,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+724,2015-S568,WCME_1239,USA,Mouth,Male,White,53,48-57,43-67,53-88,Indoors,Winter,Less48,25-48,25.1,Overweight,Natural,WCME_1239,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+725,2015-S568,WCME_1209,USA,Nose,Male,White,53,48-57,43-67,53-88,Indoors,Winter,Less48,25-48,25.1,Overweight,Natural,WCME_1209,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+403,2015-S165,WCME_1419,USA,Ears,Female,Black,53,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,25.3,Overweight,Natural,WCME_1419,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+404,2015-S165,WCME_1083,USA,Mouth,Female,Black,53,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,25.3,Overweight,Natural,WCME_1083,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+405,2015-S165,WCME_981,USA,Eyes,Female,Black,53,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,25.3,Overweight,Natural,WCME_981,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+406,2015-S165,WCME_1091,USA,Nose,Female,Black,53,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,25.3,Overweight,Natural,WCME_1091,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+407,2015-S165,WCME_1141,USA,Rectum,Female,Black,53,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,25.3,Overweight,Natural,WCME_1141,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+398,2015-S158,WCME_945,USA,Eyes,Male,Black,54,48-57,43-67,53-88,Indoors,Summer,Less48,25-48,28.1,Overweight,Natural,WCME_945,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+399,2015-S158,WCME_1343,USA,Ears,Male,Black,54,48-57,43-67,53-88,Indoors,Summer,Less48,25-48,28.1,Overweight,Natural,WCME_1343,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+400,2015-S158,WCME_1053,USA,Nose,Male,Black,54,48-57,43-67,53-88,Indoors,Summer,Less48,25-48,28.1,Overweight,Natural,WCME_1053,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+401,2015-S158,WCME_1158,USA,Rectum,Male,Black,54,48-57,43-67,53-88,Indoors,Summer,Less48,25-48,28.1,Overweight,Natural,WCME_1158,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+402,2015-S158,WCME_973,USA,Mouth,Male,Black,54,48-57,43-67,53-88,Indoors,Summer,Less48,25-48,28.1,Overweight,Natural,WCME_973,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+506,2015-S219,WCME_1007,USA,Mouth,Female,White,54,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,32.8,Obese,Natural,WCME_1007,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+507,2015-S219,WCME_995,USA,Nose,Female,White,54,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,32.8,Obese,Natural,WCME_995,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+508,2015-S219,WCME_1243,USA,Rectum,Female,White,54,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,32.8,Obese,Natural,WCME_1243,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+509,2015-S219,WCME_1225,USA,Eyes,Female,White,54,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,32.8,Obese,Natural,WCME_1225,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+548,2015-S350,WCME_1017,USA,Nose,Female,White,54,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,31.6,Obese,Natural,WCME_1017,"ACUTE MYOCARDIOAL INFARCTION, HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE",Cardio,Non,Cardio,Non
+549,2015-S350,WCME_1426,USA,Ears,Female,White,54,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,31.6,Obese,Natural,WCME_1426,"ACUTE MYOCARDIOAL INFARCTION, HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE",Cardio,Non,Cardio,Non
+550,2015-S350,WCME_1227,USA,Mouth,Female,White,54,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,31.6,Obese,Natural,WCME_1227,"ACUTE MYOCARDIOAL INFARCTION, HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE",Cardio,Non,Cardio,Non
+551,2015-S350,WCME_1221,USA,Eyes,Female,White,54,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,31.6,Obese,Natural,WCME_1221,"ACUTE MYOCARDIOAL INFARCTION, HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE",Cardio,Non,Cardio,Non
+758,2015-S587,WCME_1425,USA,Ears,Female,Black,56,48-57,43-67,53-88,Hospital,Winter,Less48,Less24,16.5,Underweight,Natural,WCME_1425,HEPATIC CIRRHOSIS WITH COMPLICATIONS,Cardio,Non,Cardio,Non
+759,2015-S587,WCME_966,USA,Rectum,Female,Black,56,48-57,43-67,53-88,Hospital,Winter,Less48,Less24,16.5,Underweight,Natural,WCME_966,HEPATIC CIRRHOSIS WITH COMPLICATIONS,Cardio,Non,Cardio,Non
+760,2015-S587,WCME_985,USA,Nose,Female,Black,56,48-57,43-67,53-88,Hospital,Winter,Less48,Less24,16.5,Underweight,Natural,WCME_985,HEPATIC CIRRHOSIS WITH COMPLICATIONS,Cardio,Non,Cardio,Non
+761,2015-S587,WCME_1061,USA,Mouth,Female,Black,56,48-57,43-67,53-88,Hospital,Winter,Less48,Less24,16.5,Underweight,Natural,WCME_1061,HEPATIC CIRRHOSIS WITH COMPLICATIONS,Cardio,Non,Cardio,Non
+762,2015-S587,WCME_1002,USA,Eyes,Female,Black,56,48-57,43-67,53-88,Hospital,Winter,Less48,Less24,16.5,Underweight,Natural,WCME_1002,HEPATIC CIRRHOSIS WITH COMPLICATIONS,Cardio,Non,Cardio,Non
+170,2014-S348,WCME_507,USA,Eyes,Female,Black,57,48-57,43-67,53-88,Indoors,Autumn,Less48,25-48,22.1,Normal Weight,Natural,WCME_507,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+171,2014-S348,WCME_505,USA,Ears,Female,Black,57,48-57,43-67,53-88,Indoors,Autumn,Less48,25-48,22.1,Normal Weight,Natural,WCME_505,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+172,2014-S348,WCME_510,USA,Mouth,Female,Black,57,48-57,43-67,53-88,Indoors,Autumn,Less48,25-48,22.1,Normal Weight,Natural,WCME_510,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+173,2014-S348,WCME_506,USA,Rectum,Female,Black,57,48-57,43-67,53-88,Indoors,Autumn,Less48,25-48,22.1,Normal Weight,Natural,WCME_506,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+174,2014-S348,WCME_509,USA,Nose,Female,Black,57,48-57,43-67,53-88,Indoors,Autumn,Less48,25-48,22.1,Normal Weight,Natural,WCME_509,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+130,2014-S25,WCME_119,USA,Ears,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,25-48,18.5,Normal Weight,Natural,WCME_119,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+131,2014-S25,WCME_123,USA,Mouth,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,25-48,18.5,Normal Weight,Natural,WCME_123,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+132,2014-S25,WCME_121,USA,Eyes,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,25-48,18.5,Normal Weight,Natural,WCME_121,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+133,2014-S25,WCME_122,USA,Nose,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,25-48,18.5,Normal Weight,Natural,WCME_122,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+134,2014-S25,WCME_120,USA,Rectum,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,25-48,18.5,Normal Weight,Natural,WCME_120,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+393,2015-S157,WCME_1249,USA,Ears,Male,White,59,58-67,43-67,53-88,Indoors,Summer,More48,Great73,31.7,Obese,Natural,WCME_1249,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+394,2015-S157,WCME_1040,USA,Mouth,Male,White,59,58-67,43-67,53-88,Indoors,Summer,More48,Great73,31.7,Obese,Natural,WCME_1040,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+395,2015-S157,WCME_970,USA,Eyes,Male,White,59,58-67,43-67,53-88,Indoors,Summer,More48,Great73,31.7,Obese,Natural,WCME_970,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+396,2015-S157,WCME_1082,USA,Rectum,Male,White,59,58-67,43-67,53-88,Indoors,Summer,More48,Great73,31.7,Obese,Natural,WCME_1082,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+397,2015-S157,WCME_1009,USA,Nose,Male,White,59,58-67,43-67,53-88,Indoors,Summer,More48,Great73,31.7,Obese,Natural,WCME_1009,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+596,2015-S426,WCME_1131,USA,Nose,Female,Black,59,58-67,43-67,53-88,Hospital,Winter,Less48,Less24,40.4,Morbid Obesity,Natural,WCME_1131,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+597,2015-S426,WCME_1322,USA,Ears,Female,Black,59,58-67,43-67,53-88,Hospital,Winter,Less48,Less24,40.4,Morbid Obesity,Natural,WCME_1322,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+598,2015-S426,WCME_1264,USA,Eyes,Female,Black,59,58-67,43-67,53-88,Hospital,Winter,Less48,Less24,40.4,Morbid Obesity,Natural,WCME_1264,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+599,2015-S426,WCME_1154,USA,Mouth,Female,Black,59,58-67,43-67,53-88,Hospital,Winter,Less48,Less24,40.4,Morbid Obesity,Natural,WCME_1154,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+707,2015-S553,WCME_1016,USA,Rectum,Male,Black,60,58-67,43-67,53-88,Indoors,Winter,More48,49-72,26.6,Overweight,Natural,WCME_1016,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+708,2015-S553,WCME_1331,USA,Ears,Male,Black,60,58-67,43-67,53-88,Indoors,Winter,More48,49-72,26.6,Overweight,Natural,WCME_1331,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+709,2015-S553,WCME_969,USA,Eyes,Male,Black,60,58-67,43-67,53-88,Indoors,Winter,More48,49-72,26.6,Overweight,Natural,WCME_969,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+710,2015-S553,WCME_980,USA,Nose,Male,Black,60,58-67,43-67,53-88,Indoors,Winter,More48,49-72,26.6,Overweight,Natural,WCME_980,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+711,2015-S553,WCME_1137,USA,Mouth,Male,Black,60,58-67,43-67,53-88,Indoors,Winter,More48,49-72,26.6,Overweight,Natural,WCME_1137,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+184,2014-S38,WCME_173,USA,Eyes,Male,Black,61,58-67,43-67,53-88,Indoors,Spring,More48,Great73,17.2,Underweight,Natural,WCME_173,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+185,2014-S38,WCME_175,USA,Nose,Male,Black,61,58-67,43-67,53-88,Indoors,Spring,More48,Great73,17.2,Underweight,Natural,WCME_175,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+186,2014-S38,WCME_172,USA,Rectum,Male,Black,61,58-67,43-67,53-88,Indoors,Spring,More48,Great73,17.2,Underweight,Natural,WCME_172,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+187,2014-S38,WCME_171,USA,Ears,Male,Black,61,58-67,43-67,53-88,Indoors,Spring,More48,Great73,17.2,Underweight,Natural,WCME_171,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+188,2014-S38,WCME_176,USA,Mouth,Male,Black,61,58-67,43-67,53-88,Indoors,Spring,More48,Great73,17.2,Underweight,Natural,WCME_176,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+878,2015-S99,WCME_826,USA,Nose,Female,Black,61,58-67,43-67,53-88,Indoors,Spring,More48,Great73,44.3,Morbid Obesity,Natural,WCME_826,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+879,2015-S99,WCME_828,USA,Rectum,Female,Black,61,58-67,43-67,53-88,Indoors,Spring,More48,Great73,44.3,Morbid Obesity,Natural,WCME_828,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+880,2015-S99,WCME_825,USA,Eyes,Female,Black,61,58-67,43-67,53-88,Indoors,Spring,More48,Great73,44.3,Morbid Obesity,Natural,WCME_825,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+881,2015-S99,WCME_827,USA,Mouth,Female,Black,61,58-67,43-67,53-88,Indoors,Spring,More48,Great73,44.3,Morbid Obesity,Natural,WCME_827,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+882,2015-S99,WCME_824,USA,Ears,Female,Black,61,58-67,43-67,53-88,Indoors,Spring,More48,Great73,44.3,Morbid Obesity,Natural,WCME_824,HYPERTENSIVE ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+791,2015-S65,WCME_694,USA,Mouth,Male,White,62,58-67,43-67,53-88,Hospital,Spring,Less48,25-48,32.1,Obese,Natural,WCME_694,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+792,2015-S65,WCME_693,USA,Nose,Male,White,62,58-67,43-67,53-88,Hospital,Spring,Less48,25-48,32.1,Obese,Natural,WCME_693,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+793,2015-S65,WCME_691,USA,Ears,Male,White,62,58-67,43-67,53-88,Hospital,Spring,Less48,25-48,32.1,Obese,Natural,WCME_691,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+794,2015-S65,WCME_692,USA,Eyes,Male,White,62,58-67,43-67,53-88,Hospital,Spring,Less48,25-48,32.1,Obese,Natural,WCME_692,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+795,2015-S65,WCME_696,USA,Rectum,Male,White,62,58-67,43-67,53-88,Hospital,Spring,Less48,25-48,32.1,Obese,Natural,WCME_696,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+233,2014-S52,WCME_268,USA,Nose,Male,Black,62,58-67,43-67,53-88,Indoors,Spring,More48,Great73,23.6,Normal Weight,Natural,WCME_268,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+234,2014-S52,WCME_237,USA,Eyes,Male,Black,62,58-67,43-67,53-88,Indoors,Spring,More48,Great73,23.6,Normal Weight,Natural,WCME_237,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+235,2014-S52,WCME_279,USA,Ears,Male,Black,62,58-67,43-67,53-88,Indoors,Spring,More48,Great73,23.6,Normal Weight,Natural,WCME_279,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+236,2014-S52,WCME_255,USA,Mouth,Male,Black,62,58-67,43-67,53-88,Indoors,Spring,More48,Great73,23.6,Normal Weight,Natural,WCME_255,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+237,2014-S52,WCME_239,USA,Rectum,Male,Black,62,58-67,43-67,53-88,Indoors,Spring,More48,Great73,23.6,Normal Weight,Natural,WCME_239,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+161,2014-S33,WCME_152,USA,Mouth,Male,White,63,58-67,43-67,53-88,Indoors,Spring,More48,49-72,23.5,Normal Weight,Natural,WCME_152,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+162,2014-S33,WCME_151,USA,Nose,Male,White,63,58-67,43-67,53-88,Indoors,Spring,More48,49-72,23.5,Normal Weight,Natural,WCME_151,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+163,2014-S33,WCME_150,USA,Eyes,Male,White,63,58-67,43-67,53-88,Indoors,Spring,More48,49-72,23.5,Normal Weight,Natural,WCME_150,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+164,2014-S33,WCME_149,USA,Ears,Male,White,63,58-67,43-67,53-88,Indoors,Spring,More48,49-72,23.5,Normal Weight,Natural,WCME_149,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+216,2014-S46,WCME_225,USA,Nose,Female,Black,66,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,23.5,Normal Weight,Natural,WCME_225,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+217,2014-S46,WCME_277,USA,Ears,Female,Black,66,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,23.5,Normal Weight,Natural,WCME_277,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+218,2014-S46,WCME_281,USA,Rectum,Female,Black,66,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,23.5,Normal Weight,Natural,WCME_281,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+219,2014-S46,WCME_273,USA,Eyes,Female,Black,66,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,23.5,Normal Weight,Natural,WCME_273,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+220,2014-S46,WCME_251,USA,Mouth,Female,Black,66,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,23.5,Normal Weight,Natural,WCME_251,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+180,2014-S37,WCME_166,USA,Ears,Male,Black,68,68-77,68-92,53-88,Indoors,Spring,More48,Great73,8.5,Underweight,Natural,WCME_166,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+181,2014-S37,WCME_169,USA,Mouth,Male,Black,68,68-77,68-92,53-88,Indoors,Spring,More48,Great73,8.5,Underweight,Natural,WCME_169,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+182,2014-S37,WCME_167,USA,Eyes,Male,Black,68,68-77,68-92,53-88,Indoors,Spring,More48,Great73,8.5,Underweight,Natural,WCME_167,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+183,2014-S37,WCME_168,USA,Nose,Male,Black,68,68-77,68-92,53-88,Indoors,Spring,More48,Great73,8.5,Underweight,Natural,WCME_168,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+221,2014-S49,WCME_269,USA,Eyes,Male,White,68,68-77,68-92,53-88,Indoors,Spring,More48,Great73,33.1,Obese,Natural,WCME_269,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+222,2014-S49,WCME_236,USA,Nose,Male,White,68,68-77,68-92,53-88,Indoors,Spring,More48,Great73,33.1,Obese,Natural,WCME_236,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+223,2014-S49,WCME_256,USA,Ears,Male,White,68,68-77,68-92,53-88,Indoors,Spring,More48,Great73,33.1,Obese,Natural,WCME_256,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+287,2014-S76,WCME_320,USA,Rectum,Male,Black,68,68-77,68-92,53-88,Outdoors,Summer,Less48,Less24,32,Obese,Natural,WCME_320,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+288,2014-S76,WCME_319,USA,Ears,Male,Black,68,68-77,68-92,53-88,Outdoors,Summer,Less48,Less24,32,Obese,Natural,WCME_319,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+289,2014-S76,WCME_323,USA,Mouth,Male,Black,68,68-77,68-92,53-88,Outdoors,Summer,Less48,Less24,32,Obese,Natural,WCME_323,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+290,2014-S76,WCME_322,USA,Nose,Male,Black,68,68-77,68-92,53-88,Outdoors,Summer,Less48,Less24,32,Obese,Natural,WCME_322,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+291,2014-S76,WCME_321,USA,Eyes,Male,Black,68,68-77,68-92,53-88,Outdoors,Summer,Less48,Less24,32,Obese,Natural,WCME_321,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+1,2014-S1,WCME_1,USA,Rectum,Female,White,70,68-77,68-92,53-88,Indoors,Spring,Less48,25-48,14.9,Underweight,Natural,WCME_1,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+2,2014-S1,WCME_2,USA,Eyes,Female,White,70,68-77,68-92,53-88,Indoors,Spring,Less48,25-48,14.9,Underweight,Natural,WCME_2,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+3,2014-S1,WCME_4,USA,Mouth,Female,White,70,68-77,68-92,53-88,Indoors,Spring,Less48,25-48,14.9,Underweight,Natural,WCME_4,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+4,2014-S1,WCME_3,USA,Nose,Female,White,70,68-77,68-92,53-88,Indoors,Spring,Less48,25-48,14.9,Underweight,Natural,WCME_3,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio,Non
+520,2015-S27,WCME_574,USA,Eyes,Male,Black,80,78-87,68-92,53-88,Hospital,Spring,Less48,25-48,29.2,Overweight,Natural,WCME_574,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+521,2015-S27,WCME_576,USA,Mouth,Male,Black,80,78-87,68-92,53-88,Hospital,Spring,Less48,25-48,29.2,Overweight,Natural,WCME_576,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+522,2015-S27,WCME_578,USA,Rectum,Male,Black,80,78-87,68-92,53-88,Hospital,Spring,Less48,25-48,29.2,Overweight,Natural,WCME_578,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+523,2015-S27,WCME_573,USA,Ears,Male,Black,80,78-87,68-92,53-88,Hospital,Spring,Less48,25-48,29.2,Overweight,Natural,WCME_573,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+524,2015-S27,WCME_575,USA,Nose,Male,Black,80,78-87,68-92,53-88,Hospital,Spring,Less48,25-48,29.2,Overweight,Natural,WCME_575,ATHEROSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+805,2015-S70,WCME_708,USA,Nose,Male,Black,88,88-97,68-92,53-88,Indoors,Spring,Less48,25-48,16.8,Underweight,Natural,WCME_708,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+806,2015-S70,WCME_707,USA,Eyes,Male,Black,88,88-97,68-92,53-88,Indoors,Spring,Less48,25-48,16.8,Underweight,Natural,WCME_707,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+807,2015-S70,WCME_709,USA,Mouth,Male,Black,88,88-97,68-92,53-88,Indoors,Spring,Less48,25-48,16.8,Underweight,Natural,WCME_709,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+808,2015-S70,WCME_706,USA,Ears,Male,Black,88,88-97,68-92,53-88,Indoors,Spring,Less48,25-48,16.8,Underweight,Natural,WCME_706,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+809,2015-S70,WCME_711,USA,Rectum,Male,Black,88,88-97,68-92,53-88,Indoors,Spring,Less48,25-48,16.8,Underweight,Natural,WCME_711,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio,Non
+211,2014-S45,WCME_217,USA,Ears,Male,Black,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,47.1,Morbid Obesity,Natural,WCME_217,MORBID OBESITY WITH COMPLICATIONS ,Cardio,Non,Cardio,Non
+212,2014-S45,WCME_221,USA,Nose,Male,Black,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,47.1,Morbid Obesity,Natural,WCME_221,MORBID OBESITY WITH COMPLICATIONS ,Cardio,Non,Cardio,Non
+213,2014-S45,WCME_218,USA,Rectum,Male,Black,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,47.1,Morbid Obesity,Natural,WCME_218,MORBID OBESITY WITH COMPLICATIONS ,Cardio,Non,Cardio,Non
+214,2014-S45,WCME_222,USA,Mouth,Male,Black,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,47.1,Morbid Obesity,Natural,WCME_222,MORBID OBESITY WITH COMPLICATIONS ,Cardio,Non,Cardio,Non
+215,2014-S45,WCME_219,USA,Eyes,Male,Black,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,47.1,Morbid Obesity,Natural,WCME_219,MORBID OBESITY WITH COMPLICATIONS ,Cardio,Non,Cardio,Non
+135,2014-S27,WCME_129,USA,Mouth,Female,White,71,68-77,68-92,53-88,Indoors,Spring,Less48,Less24,unknown,Unknown,Natural,WCME_129,ACUTE RESPIRATORY FAILURE -MULTI ORGAN FAILURE -SHOCK-ATRIAL FLUTTER,Other,Non,Cardio,Non
+136,2014-S27,WCME_126,USA,Rectum,Female,White,71,68-77,68-92,53-88,Indoors,Spring,Less48,Less24,unknown,Unknown,Natural,WCME_126,ACUTE RESPIRATORY FAILURE -MULTI ORGAN FAILURE -SHOCK-ATRIAL FLUTTER,Other,Non,Cardio,Non
+137,2014-S27,WCME_125,USA,Ears,Female,White,71,68-77,68-92,53-88,Indoors,Spring,Less48,Less24,unknown,Unknown,Natural,WCME_125,ACUTE RESPIRATORY FAILURE -MULTI ORGAN FAILURE -SHOCK-ATRIAL FLUTTER,Other,Non,Cardio,Non
+138,2014-S27,WCME_127,USA,Eyes,Female,White,71,68-77,68-92,53-88,Indoors,Spring,Less48,Less24,unknown,Unknown,Natural,WCME_127,ACUTE RESPIRATORY FAILURE -MULTI ORGAN FAILURE -SHOCK-ATRIAL FLUTTER,Other,Non,Cardio,Non
+139,2014-S27,WCME_128,USA,Nose,Female,White,71,68-77,68-92,53-88,Indoors,Spring,Less48,Less24,unknown,Unknown,Natural,WCME_128,ACUTE RESPIRATORY FAILURE -MULTI ORGAN FAILURE -SHOCK-ATRIAL FLUTTER,Other,Non,Cardio,Non
+428,2015-S184,WCME_999,USA,Mouth,Male,Black,53,48-57,43-67,53-88,Indoors,Spring,More48,49-72,27.8,Overweight,Natural,WCME_999,"CIRRHOSIS, CHRONIC ETHANOL ABUSE",Drug,Non,Drug,Non
+429,2015-S184,WCME_1028,USA,Rectum,Male,Black,53,48-57,43-67,53-88,Indoors,Spring,More48,49-72,27.8,Overweight,Natural,WCME_1028,"CIRRHOSIS, CHRONIC ETHANOL ABUSE",Drug,Non,Drug,Non
+430,2015-S184,WCME_1021,USA,Eyes,Male,Black,53,48-57,43-67,53-88,Indoors,Spring,More48,49-72,27.8,Overweight,Natural,WCME_1021,"CIRRHOSIS, CHRONIC ETHANOL ABUSE",Drug,Non,Drug,Non
+431,2015-S184,WCME_1126,USA,Nose,Male,Black,53,48-57,43-67,53-88,Indoors,Spring,More48,49-72,27.8,Overweight,Natural,WCME_1126,"CIRRHOSIS, CHRONIC ETHANOL ABUSE",Drug,Non,Drug,Non
+432,2015-S184,WCME_1121,USA,Ears,Male,Black,53,48-57,43-67,53-88,Indoors,Spring,More48,49-72,27.8,Overweight,Natural,WCME_1121,"CIRRHOSIS, CHRONIC ETHANOL ABUSE",Drug,Non,Drug,Non
+839,2015-S86,WCME_762,USA,Eyes,Male,Black,55,48-57,43-67,53-88,Vehicular,Spring,More48,49-72,24.7,Normal Weight,Natural,WCME_762,CIRRHOSIS,Drug,Non,Drug,Non
+840,2015-S86,WCME_764,USA,Mouth,Male,Black,55,48-57,43-67,53-88,Vehicular,Spring,More48,49-72,24.7,Normal Weight,Natural,WCME_764,CIRRHOSIS,Drug,Non,Drug,Non
+841,2015-S86,WCME_761,USA,Ears,Male,Black,55,48-57,43-67,53-88,Vehicular,Spring,More48,49-72,24.7,Normal Weight,Natural,WCME_761,CIRRHOSIS,Drug,Non,Drug,Non
+842,2015-S86,WCME_763,USA,Nose,Male,Black,55,48-57,43-67,53-88,Vehicular,Spring,More48,49-72,24.7,Normal Weight,Natural,WCME_763,CIRRHOSIS,Drug,Non,Drug,Non
+664,2015-S492,WCME_1185,USA,Rectum,Male,White,34,28-37,18-42,18-52,Indoors,Summer,More48,49-72,19.5,Normal Weight,Natural,WCME_1185,CEREBRAL PALSY WITH COMPLICATIONS,Other,Non,Other,Non
+665,2015-S492,WCME_1393,USA,Ears,Male,White,34,28-37,18-42,18-52,Indoors,Summer,More48,49-72,19.5,Normal Weight,Natural,WCME_1393,CEREBRAL PALSY WITH COMPLICATIONS,Other,Non,Other,Non
+666,2015-S492,WCME_1148,USA,Nose,Male,White,34,28-37,18-42,18-52,Indoors,Summer,More48,49-72,19.5,Normal Weight,Natural,WCME_1148,CEREBRAL PALSY WITH COMPLICATIONS,Other,Non,Other,Non
+667,2015-S492,WCME_1125,USA,Eyes,Male,White,34,28-37,18-42,18-52,Indoors,Summer,More48,49-72,19.5,Normal Weight,Natural,WCME_1125,CEREBRAL PALSY WITH COMPLICATIONS,Other,Non,Other,Non
+98,2014-S16,WCME_77,USA,Ears,Female,White,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,31.8,Obese,Natural,WCME_77,EPILEPSY ,Other,Non,Other,Non
+99,2014-S16,WCME_81,USA,Nose,Female,White,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,31.8,Obese,Natural,WCME_81,EPILEPSY ,Other,Non,Other,Non
+100,2014-S16,WCME_79,USA,Eyes,Female,White,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,31.8,Obese,Natural,WCME_79,EPILEPSY ,Other,Non,Other,Non
+101,2014-S16,WCME_78,USA,Rectum,Female,White,41,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,31.8,Obese,Natural,WCME_78,EPILEPSY ,Other,Non,Other,Non
+366,2015-S137,WCME_1216,USA,Eyes,Female,Black,42,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,43.3,Morbid Obesity,Natural,WCME_1216,PULMONARY EMBOLISM OF UNKNOWN ORIGIN,Other,Non,Other,Non
+367,2015-S137,WCME_1033,USA,Nose,Female,Black,42,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,43.3,Morbid Obesity,Natural,WCME_1033,PULMONARY EMBOLISM OF UNKNOWN ORIGIN,Other,Non,Other,Non
+368,2015-S137,WCME_1382,USA,Ears,Female,Black,42,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,43.3,Morbid Obesity,Natural,WCME_1382,PULMONARY EMBOLISM OF UNKNOWN ORIGIN,Other,Non,Other,Non
+238,2014-S55,WCME_276,USA,Ears,Male,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,29,Overweight,Natural,WCME_276,DIABETES MELLITUS,Other,Non,Other,Non
+239,2014-S55,WCME_243,USA,Rectum,Male,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,29,Overweight,Natural,WCME_243,DIABETES MELLITUS,Other,Non,Other,Non
+240,2014-S55,WCME_241,USA,Mouth,Male,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,29,Overweight,Natural,WCME_241,DIABETES MELLITUS,Other,Non,Other,Non
+241,2014-S55,WCME_229,USA,Eyes,Male,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,29,Overweight,Natural,WCME_229,DIABETES MELLITUS,Other,Non,Other,Non
+242,2014-S55,WCME_227,USA,Nose,Male,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,25-48,29,Overweight,Natural,WCME_227,DIABETES MELLITUS,Other,Non,Other,Non
+302,2014-S80,WCME_341,USA,Nose,Female,White,50,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,15.8,Underweight,Natural,WCME_341,COMPLATIONS OF DIABETES MELLITUS,Other,Non,Other,Non
+303,2014-S80,WCME_338,USA,Ears,Female,White,50,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,15.8,Underweight,Natural,WCME_338,COMPLATIONS OF DIABETES MELLITUS,Other,Non,Other,Non
+304,2014-S80,WCME_339,USA,Rectum,Female,White,50,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,15.8,Underweight,Natural,WCME_339,COMPLATIONS OF DIABETES MELLITUS,Other,Non,Other,Non
+305,2014-S80,WCME_340,USA,Eyes,Female,White,50,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,15.8,Underweight,Natural,WCME_340,COMPLATIONS OF DIABETES MELLITUS,Other,Non,Other,Non
+306,2014-S80,WCME_342,USA,Mouth,Female,White,50,48-57,43-67,18-52,Indoors,Summer,Less48,25-48,15.8,Underweight,Natural,WCME_342,COMPLATIONS OF DIABETES MELLITUS,Other,Non,Other,Non
+30,2014-S116,WCME_424,USA,Rectum,Female,Black,50,48-57,43-67,18-52,Indoors,Summer,More48,Great73,14.8,Underweight,Natural,WCME_424,DIABETIC KETOACIDOSIS,Other,Non,Other,Non
+31,2014-S116,WCME_428,USA,Mouth,Female,Black,50,48-57,43-67,18-52,Indoors,Summer,More48,Great73,14.8,Underweight,Natural,WCME_428,DIABETIC KETOACIDOSIS,Other,Non,Other,Non
+32,2014-S116,WCME_423,USA,Ears,Female,Black,50,48-57,43-67,18-52,Indoors,Summer,More48,Great73,14.8,Underweight,Natural,WCME_423,DIABETIC KETOACIDOSIS,Other,Non,Other,Non
+33,2014-S116,WCME_425,USA,Eyes,Female,Black,50,48-57,43-67,18-52,Indoors,Summer,More48,Great73,14.8,Underweight,Natural,WCME_425,DIABETIC KETOACIDOSIS,Other,Non,Other,Non
+34,2014-S116,WCME_427,USA,Nose,Female,Black,50,48-57,43-67,18-52,Indoors,Summer,More48,Great73,14.8,Underweight,Natural,WCME_427,DIABETIC KETOACIDOSIS,Other,Non,Other,Non
+685,2015-S512,WCME_968,USA,Mouth,Male,White,51,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,24.6,Normal Weight,Natural,WCME_968,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,Other,Non,Other,Non
+686,2015-S512,WCME_1144,USA,Eyes,Male,White,51,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,24.6,Normal Weight,Natural,WCME_1144,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,Other,Non,Other,Non
+687,2015-S512,WCME_1369,USA,Ears,Male,White,51,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,24.6,Normal Weight,Natural,WCME_1369,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,Other,Non,Other,Non
+688,2015-S512,WCME_988,USA,Rectum,Male,White,51,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,24.6,Normal Weight,Natural,WCME_988,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,Other,Non,Other,Non
+689,2015-S512,WCME_950,USA,Nose,Male,White,51,48-57,43-67,18-52,Indoors,Winter,Less48,Less24,24.6,Normal Weight,Natural,WCME_950,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,Other,Non,Other,Non
+73,2014-S140,WCME_460,USA,Rectum,Male,Black,55,48-57,43-67,53-88,Indoors,Summer,Less48,25-48,18.4,Underweight,Natural,WCME_460,ASTHMA,Other,Non,Other,Non
+74,2014-S140,WCME_464,USA,Mouth,Male,Black,55,48-57,43-67,53-88,Indoors,Summer,Less48,25-48,18.4,Underweight,Natural,WCME_464,ASTHMA,Other,Non,Other,Non
+75,2014-S140,WCME_459,USA,Ears,Male,Black,55,48-57,43-67,53-88,Indoors,Summer,Less48,25-48,18.4,Underweight,Natural,WCME_459,ASTHMA,Other,Non,Other,Non
+76,2014-S140,WCME_461,USA,Eyes,Male,Black,55,48-57,43-67,53-88,Indoors,Summer,Less48,25-48,18.4,Underweight,Natural,WCME_461,ASTHMA,Other,Non,Other,Non
+77,2014-S140,WCME_463,USA,Nose,Male,Black,55,48-57,43-67,53-88,Indoors,Summer,Less48,25-48,18.4,Underweight,Natural,WCME_463,ASTHMA,Other,Non,Other,Non
+121,2014-S22,WCME_111,USA,Mouth,Male,White,55,48-57,43-67,53-88,Indoors,Spring,Less48,25-48,26.9,Overweight,Natural,WCME_111,PULMONARY ADENOCARCINOMA ,Other,Non,Other,Non
+122,2014-S22,WCME_106,USA,Ears,Male,White,55,48-57,43-67,53-88,Indoors,Spring,Less48,25-48,26.9,Overweight,Natural,WCME_106,PULMONARY ADENOCARCINOMA ,Other,Non,Other,Non
+123,2014-S22,WCME_110,USA,Nose,Male,White,55,48-57,43-67,53-88,Indoors,Spring,Less48,25-48,26.9,Overweight,Natural,WCME_110,PULMONARY ADENOCARCINOMA ,Other,Non,Other,Non
+124,2014-S22,WCME_107,USA,Rectum,Male,White,55,48-57,43-67,53-88,Indoors,Spring,Less48,25-48,26.9,Overweight,Natural,WCME_107,PULMONARY ADENOCARCINOMA ,Other,Non,Other,Non
+125,2014-S22,WCME_108,USA,Eyes,Male,White,55,48-57,43-67,53-88,Indoors,Spring,Less48,25-48,26.9,Overweight,Natural,WCME_108,PULMONARY ADENOCARCINOMA ,Other,Non,Other,Non
+668,2015-S493,WCME_1372,USA,Ears,Male,White,59,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,48.7,Morbid Obesity,Natural,WCME_1372,SQUAMOUS CELL CARCINOMA OF THE RIGHT LUNG,Other,Non,Other,Non
+669,2015-S493,WCME_1193,USA,Eyes,Male,White,59,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,46.7,Morbid Obesity,Natural,WCME_1193,SQUAMOUS CELL CARCINOMA OF THE RIGHT LUNG,Other,Non,Other,Non
+670,2015-S493,WCME_1313,USA,Nose,Male,White,59,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,47.7,Morbid Obesity,Natural,WCME_1313,SQUAMOUS CELL CARCINOMA OF THE RIGHT LUNG,Other,Non,Other,Non
+243,2014-S56,WCME_259,USA,Eyes,Female,Black,60,58-67,43-67,53-88,Indoors,Spring,Less48,25-48,21.5,Normal Weight,Natural,WCME_259,HEPATOCELLULAR CARCINOMA AND COMPLICATIONS THERE OF ,Other,Non,Other,Non
+244,2014-S56,WCME_238,USA,Mouth,Female,Black,60,58-67,43-67,53-88,Indoors,Spring,Less48,25-48,21.5,Normal Weight,Natural,WCME_238,HEPATOCELLULAR CARCINOMA AND COMPLICATIONS THERE OF ,Other,Non,Other,Non
+245,2014-S56,WCME_280,USA,Rectum,Female,Black,60,58-67,43-67,53-88,Indoors,Spring,Less48,25-48,21.5,Normal Weight,Natural,WCME_280,HEPATOCELLULAR CARCINOMA AND COMPLICATIONS THERE OF ,Other,Non,Other,Non
+246,2014-S56,WCME_257,USA,Nose,Female,Black,60,58-67,43-67,53-88,Indoors,Spring,Less48,25-48,21.5,Normal Weight,Natural,WCME_257,HEPATOCELLULAR CARCINOMA AND COMPLICATIONS THERE OF ,Other,Non,Other,Non
+189,2014-S39,WCME_182,USA,Nose,Male,White,75,68-77,68-92,53-88,Indoors,Spring,Less48,Less24,n/a,n/a,Natural,WCME_182,n/a,Unknown,Unknown,Unknown,Non
+190,2014-S39,WCME_179,USA,Rectum,Male,White,75,68-77,68-92,53-88,Indoors,Spring,Less48,Less24,n/a,n/a,Natural,WCME_179,n/a,Unknown,Unknown,Unknown,Non
+191,2014-S39,WCME_180,USA,Eyes,Male,White,75,68-77,68-92,53-88,Indoors,Spring,Less48,Less24,n/a,n/a,Natural,WCME_180,n/a,Unknown,Unknown,Unknown,Non
+192,2014-S39,WCME_178,USA,Ears,Male,White,75,68-77,68-92,53-88,Indoors,Spring,Less48,Less24,n/a,n/a,Natural,WCME_178,n/a,Unknown,Unknown,Unknown,Non
+735,2015-S574,WCME_1020,USA,Nose,Male,White,19,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,23.1,Normal Weight,Suicide,WCME_1020,HANGING,Other,Violent,Asphyx,Suicide
+736,2015-S574,WCME_992,USA,Eyes,Male,White,19,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,23.1,Normal Weight,Suicide,WCME_992,HANGING,Other,Violent,Asphyx,Suicide
+737,2015-S574,WCME_958,USA,Mouth,Male,White,19,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,23.1,Normal Weight,Suicide,WCME_958,HANGING,Other,Violent,Asphyx,Suicide
+738,2015-S574,WCME_967,USA,Rectum,Male,White,19,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,23.1,Normal Weight,Suicide,WCME_967,HANGING,Other,Violent,Asphyx,Suicide
+739,2015-S574,WCME_1380,USA,Ears,Male,White,19,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,23.1,Normal Weight,Suicide,WCME_1380,HANGING,Other,Violent,Asphyx,Suicide
+777,2015-S598,WCME_1235,USA,Eyes,Female,White,21,18-27,18-42,18-52,Vehicular,Winter,Less48,Less24,25.9,Overweight,Suicide,WCME_1235,DROWNING,Other,Violent,Asphyx,Suicide
+778,2015-S598,WCME_1079,USA,Rectum,Female,White,21,18-27,18-42,18-52,Vehicular,Winter,Less48,Less24,25.9,Overweight,Suicide,WCME_1079,DROWNING,Other,Violent,Asphyx,Suicide
+779,2015-S598,WCME_1134,USA,Mouth,Female,White,21,18-27,18-42,18-52,Vehicular,Winter,Less48,Less24,25.9,Overweight,Suicide,WCME_1134,DROWNING,Other,Violent,Asphyx,Suicide
+780,2015-S598,WCME_1000,USA,Nose,Female,White,21,18-27,18-42,18-52,Vehicular,Winter,Less48,Less24,25.9,Overweight,Suicide,WCME_1000,DROWNING,Other,Violent,Asphyx,Suicide
+362,2015-S136,WCME_1113,USA,Mouth,Male,White,29,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,19.9,Normal Weight,Suicide,WCME_1113,HANGING,Other,Violent,Asphyx,Suicide
+363,2015-S136,WCME_1192,USA,Ears,Male,White,29,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,19.9,Normal Weight,Suicide,WCME_1192,HANGING,Other,Violent,Asphyx,Suicide
+364,2015-S136,WCME_944,USA,Nose,Male,White,29,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,19.9,Normal Weight,Suicide,WCME_944,HANGING,Other,Violent,Asphyx,Suicide
+365,2015-S136,WCME_1344,USA,Eyes,Male,White,29,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,19.9,Normal Weight,Suicide,WCME_1344,HANGING,Other,Violent,Asphyx,Suicide
+389,2015-S156,WCME_1018,USA,Rectum,Female,White,41,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,18.6,Normal Weight,Suicide,WCME_1018,HANGING,Other,Violent,Asphyx,Suicide
+390,2015-S156,WCME_1229,USA,Nose,Female,White,41,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,18.6,Normal Weight,Suicide,WCME_1229,HANGING,Other,Violent,Asphyx,Suicide
+391,2015-S156,WCME_1096,USA,Mouth,Female,White,41,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,18.6,Normal Weight,Suicide,WCME_1096,HANGING,Other,Violent,Asphyx,Suicide
+392,2015-S156,WCME_1324,USA,Ears,Female,White,41,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,18.6,Normal Weight,Suicide,WCME_1324,HANGING,Other,Violent,Asphyx,Suicide
+614,2015-S443,WCME_1073,USA,Nose,Male,White,46,38-47,43-67,18-52,Indoors,Winter,Less48,Less24,34.7,Obese,Suicide,WCME_1073,HANGING,Other,Violent,Asphyx,Suicide
+615,2015-S443,WCME_1135,USA,Eyes,Male,White,46,38-47,43-67,18-52,Indoors,Winter,Less48,Less24,34.7,Obese,Suicide,WCME_1135,HANGING,Other,Violent,Asphyx,Suicide
+616,2015-S443,WCME_1071,USA,Mouth,Male,White,46,38-47,43-67,18-52,Indoors,Winter,Less48,Less24,34.7,Obese,Suicide,WCME_1071,HANGING,Other,Violent,Asphyx,Suicide
+617,2015-S443,WCME_1250,USA,Ears,Male,White,46,38-47,43-67,18-52,Indoors,Winter,Less48,Less24,34.7,Obese,Suicide,WCME_1250,HANGING,Other,Violent,Asphyx,Suicide
+618,2015-S443,WCME_1280,USA,Rectum,Male,White,46,38-47,43-67,18-52,Indoors,Winter,Less48,Less24,34.7,Obese,Suicide,WCME_1280,HANGING,Other,Violent,Asphyx,Suicide
+525,2015-S3,WCME_1399,USA,Ears,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,26.5,Overweight,Suicide,WCME_1399,HANGING,Other,Violent,Asphyx,Suicide
+526,2015-S3,WCME_1187,USA,Eyes,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,26.5,Overweight,Suicide,WCME_1187,HANGING,Other,Violent,Asphyx,Suicide
+527,2015-S3,WCME_1090,USA,Nose,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,26.5,Overweight,Suicide,WCME_1090,HANGING,Other,Violent,Asphyx,Suicide
+528,2015-S3,WCME_1069,USA,Mouth,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,26.5,Overweight,Suicide,WCME_1069,HANGING,Other,Violent,Asphyx,Suicide
+529,2015-S3,WCME_940,USA,Rectum,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,26.5,Overweight,Suicide,WCME_940,HANGING,Other,Violent,Asphyx,Suicide
+489,2015-S211,WCME_1416,USA,Ears,Male,Black,62,58-67,43-67,53-88,Outdoors,Spring,Less48,25-48,24.8,Normal Weight,Suicide,WCME_1416,DROWNING,Other,Violent,Asphyx,Suicide
+490,2015-S211,WCME_1402,USA,Eyes,Male,Black,62,58-67,43-67,53-88,Outdoors,Spring,Less48,25-48,24.8,Normal Weight,Suicide,WCME_1402,DROWNING,Other,Violent,Asphyx,Suicide
+491,2015-S211,WCME_1290,USA,Nose,Male,Black,62,58-67,43-67,53-88,Outdoors,Spring,Less48,25-48,24.8,Normal Weight,Suicide,WCME_1290,DROWNING,Other,Violent,Asphyx,Suicide
+492,2015-S211,WCME_1164,USA,Rectum,Male,Black,62,58-67,43-67,53-88,Outdoors,Spring,Less48,25-48,24.8,Normal Weight,Suicide,WCME_1164,DROWNING,Other,Violent,Asphyx,Suicide
+493,2015-S211,WCME_1281,USA,Mouth,Male,Black,62,58-67,43-67,53-88,Outdoors,Spring,Less48,25-48,24.8,Normal Weight,Suicide,WCME_1281,DROWNING,Other,Violent,Asphyx,Suicide
+654,2015-S487,WCME_1064,USA,Nose,Male,White,63,58-67,43-67,53-88,Indoors,Summer,More48,49-72,24.4,Normal Weight,Suicide,WCME_1064,CARBON MONOXIDE TOXICITY,Other,Non,Asphyx,Suicide
+655,2015-S487,WCME_1120,USA,Mouth,Male,White,63,58-67,43-67,53-88,Indoors,Summer,More48,49-72,24.4,Normal Weight,Suicide,WCME_1120,CARBON MONOXIDE TOXICITY,Other,Non,Asphyx,Suicide
+656,2015-S487,WCME_1309,USA,Rectum,Male,White,63,58-67,43-67,53-88,Indoors,Summer,More48,49-72,24.4,Normal Weight,Suicide,WCME_1309,CARBON MONOXIDE TOXICITY,Other,Non,Asphyx,Suicide
+657,2015-S487,WCME_1283,USA,Ears,Male,White,63,58-67,43-67,53-88,Indoors,Summer,More48,49-72,24.4,Normal Weight,Suicide,WCME_1283,CARBON MONOXIDE TOXICITY,Other,Non,Asphyx,Suicide
+658,2015-S487,WCME_1072,USA,Eyes,Male,White,63,58-67,43-67,53-88,Indoors,Summer,More48,49-72,24.4,Normal Weight,Suicide,WCME_1072,CARBON MONOXIDE TOXICITY,Other,Non,Asphyx,Suicide
+562,2015-S378,WCME_1036,USA,Ears,Male,White,64,58-67,43-67,53-88,Indoors,Summer,Less48,Less24,29,Overweight,Suicide,WCME_1036,ASPHYXIATION - HELIUM,Other,Non,Asphyx,Suicide
+563,2015-S378,WCME_1252,USA,Nose,Male,White,64,58-67,43-67,53-88,Indoors,Summer,Less48,Less24,29,Overweight,Suicide,WCME_1252,ASPHYXIATION - HELIUM,Other,Non,Asphyx,Suicide
+564,2015-S378,WCME_1384,USA,Eyes,Male,White,64,58-67,43-67,53-88,Indoors,Summer,Less48,Less24,29,Overweight,Suicide,WCME_1384,ASPHYXIATION - HELIUM,Other,Non,Asphyx,Suicide
+565,2015-S378,WCME_1184,USA,Mouth,Male,White,64,58-67,43-67,53-88,Indoors,Summer,Less48,Less24,29,Overweight,Suicide,WCME_1184,ASPHYXIATION - HELIUM,Other,Non,Asphyx,Suicide
+566,2015-S378,WCME_1086,USA,Rectum,Male,White,64,58-67,43-67,53-88,Indoors,Summer,Less48,Less24,29,Overweight,Suicide,WCME_1086,ASPHYXIATION - HELIUM,Other,Non,Asphyx,Suicide
+543,2015-S340,WCME_1190,USA,Eyes,Male,White,55,48-57,43-67,53-88,Outdoors,Autumn,Less48,Less24,30.7,Obese,Suicide,WCME_1190,MULTIPLE INJURIES,Other,Violent,BFT,Suicide
+544,2015-S340,WCME_1439,USA,Ears,Male,White,55,48-57,43-67,53-88,Outdoors,Autumn,Less48,Less24,30.7,Obese,Suicide,WCME_1439,MULTIPLE INJURIES,Other,Violent,BFT,Suicide
+545,2015-S340,WCME_1276,USA,Rectum,Male,White,55,48-57,43-67,53-88,Outdoors,Autumn,Less48,Less24,30.7,Obese,Suicide,WCME_1276,MULTIPLE INJURIES,Other,Violent,BFT,Suicide
+546,2015-S340,WCME_1047,USA,Nose,Male,White,55,48-57,43-67,53-88,Outdoors,Autumn,Less48,Less24,30.7,Obese,Suicide,WCME_1047,MULTIPLE INJURIES,Other,Violent,BFT,Suicide
+547,2015-S340,WCME_1152,USA,Mouth,Male,White,55,48-57,43-67,53-88,Outdoors,Autumn,Less48,Less24,30.7,Obese,Suicide,WCME_1152,MULTIPLE INJURIES,Other,Violent,BFT,Suicide
+347,2014-S94,WCME_925,USA,Rectum,Female,Black,26,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,35.6,Severe Obesity,Suicide,WCME_925,ACUTE CODEINE INTOXICATION,Drug,Non,Drug,Suicide
+348,2014-S94,WCME_928,USA,Nose,Female,Black,26,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,35.6,Severe Obesity,Suicide,WCME_928,ACUTE CODEINE INTOXICATION,Drug,Non,Drug,Suicide
+349,2014-S94,WCME_929,USA,Mouth,Female,Black,26,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,35.6,Severe Obesity,Suicide,WCME_929,ACUTE CODEINE INTOXICATION,Drug,Non,Drug,Suicide
+350,2014-S94,WCME_924,USA,Ears,Female,Black,26,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,35.6,Severe Obesity,Suicide,WCME_924,ACUTE CODEINE INTOXICATION,Drug,Non,Drug,Suicide
+351,2014-S94,WCME_926,USA,Eyes,Female,Black,26,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,35.6,Severe Obesity,Suicide,WCME_926,ACUTE CODEINE INTOXICATION,Drug,Non,Drug,Suicide
+744,2015-S579,WCME_953,USA,Nose,Male,White,31,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,33.5,Obese,Suicide,WCME_953,ACETAMINOPHEN TOXICITY,Drug,Non,Drug,Suicide
+745,2015-S579,WCME_1287,USA,Ears,Male,White,31,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,33.5,Obese,Suicide,WCME_1287,ACETAMINOPHEN TOXICITY,Drug,Non,Drug,Suicide
+746,2015-S579,WCME_954,USA,Mouth,Male,White,31,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,33.5,Obese,Suicide,WCME_954,ACETAMINOPHEN TOXICITY,Drug,Non,Drug,Suicide
+747,2015-S579,WCME_1030,USA,Rectum,Male,White,31,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,33.5,Obese,Suicide,WCME_1030,ACETAMINOPHEN TOXICITY,Drug,Non,Drug,Suicide
+748,2015-S579,WCME_1044,USA,Eyes,Male,White,31,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,33.5,Obese,Suicide,WCME_1044,ACETAMINOPHEN TOXICITY,Drug,Non,Drug,Suicide
+591,2015-S425,WCME_1189,USA,Eyes,Male,White,36,28-37,18-42,18-52,Indoors,Autumn,Less48,Less24,31.5,Obese,Suicide,WCME_1189,DOXEPIN TOXICITY,Drug,Non,Drug,Suicide
+592,2015-S425,WCME_1414,USA,Ears,Male,White,36,28-37,18-42,18-52,Indoors,Autumn,Less48,Less24,31.5,Obese,Suicide,WCME_1414,DOXEPIN TOXICITY,Drug,Non,Drug,Suicide
+593,2015-S425,WCME_1208,USA,Nose,Male,White,36,28-37,18-42,18-52,Indoors,Autumn,Less48,Less24,31.5,Obese,Suicide,WCME_1208,DOXEPIN TOXICITY,Drug,Non,Drug,Suicide
+594,2015-S425,WCME_1084,USA,Rectum,Male,White,36,28-37,18-42,18-52,Indoors,Autumn,Less48,Less24,31.5,Obese,Suicide,WCME_1084,DOXEPIN TOXICITY,Drug,Non,Drug,Suicide
+595,2015-S425,WCME_1268,USA,Mouth,Male,White,36,28-37,18-42,18-52,Indoors,Autumn,Less48,Less24,31.5,Obese,Suicide,WCME_1268,DOXEPIN TOXICITY,Drug,Non,Drug,Suicide
+629,2015-S47,WCME_1390,USA,Ears,Female,Black,39,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,39.8,Severe Obesity,Suicide,WCME_1390,clonidine toxicity,Drug,Non,Drug,Suicide
+630,2015-S47,WCME_965,USA,Mouth,Female,Black,39,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,39.8,Severe Obesity,Suicide,WCME_965,clonidine toxicity,Drug,Non,Drug,Suicide
+631,2015-S47,WCME_959,USA,Eyes,Female,Black,39,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,39.8,Severe Obesity,Suicide,WCME_959,clonidine toxicity,Drug,Non,Drug,Suicide
+632,2015-S47,WCME_976,USA,Nose,Female,Black,39,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,39.8,Severe Obesity,Suicide,WCME_976,clonidine toxicity,Drug,Non,Drug,Suicide
+633,2015-S47,WCME_1070,USA,Rectum,Female,Black,39,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,39.8,Severe Obesity,Suicide,WCME_1070,clonidine toxicity,Drug,Non,Drug,Suicide
+465,2015-S201,WCME_1275,USA,Mouth,Female,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,22.5,Normal Weight,Suicide,WCME_1275,AMITRYPTILINE AND NORTRYPTILINE INTOXICATION,Drug,Non,Drug,Suicide
+466,2015-S201,WCME_1013,USA,Rectum,Female,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,22.5,Normal Weight,Suicide,WCME_1013,AMITRYPTILINE AND NORTRYPTILINE INTOXICATION,Drug,Non,Drug,Suicide
+467,2015-S201,WCME_1087,USA,Nose,Female,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,22.5,Normal Weight,Suicide,WCME_1087,AMITRYPTILINE AND NORTRYPTILINE INTOXICATION,Drug,Non,Drug,Suicide
+468,2015-S201,WCME_1284,USA,Ears,Female,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,22.5,Normal Weight,Suicide,WCME_1284,AMITRYPTILINE AND NORTRYPTILINE INTOXICATION,Drug,Non,Drug,Suicide
+469,2015-S201,WCME_1316,USA,Eyes,Female,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,22.5,Normal Weight,Suicide,WCME_1316,AMITRYPTILINE AND NORTRYPTILINE INTOXICATION,Drug,Non,Drug,Suicide
+786,2015-S64,WCME_943,USA,Rectum,Female,White,45,38-47,43-67,18-52,Indoors,Spring,More48,49-72,31.8,Obese,Suicide,WCME_943,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Suicide
+787,2015-S64,WCME_1175,USA,Eyes,Female,White,45,38-47,43-67,18-52,Indoors,Spring,More48,49-72,31.8,Obese,Suicide,WCME_1175,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Suicide
+788,2015-S64,WCME_941,USA,Nose,Female,White,45,38-47,43-67,18-52,Indoors,Spring,More48,49-72,31.8,Obese,Suicide,WCME_941,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Suicide
+789,2015-S64,WCME_1027,USA,Ears,Female,White,45,38-47,43-67,18-52,Indoors,Spring,More48,49-72,31.8,Obese,Suicide,WCME_1027,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Suicide
+790,2015-S64,WCME_942,USA,Mouth,Female,White,45,38-47,43-67,18-52,Indoors,Spring,More48,49-72,31.8,Obese,Suicide,WCME_942,MULTIPLE DRUG TOXICITY,Drug,Non,Drug,Suicide
+830,2015-S8,WCME_1170,USA,Eyes,Female,White,55,48-57,43-67,53-88,Indoors,Spring,Less48,25-48,14,Underweight,Suicide,WCME_1170,"ACETAMINOPHEN, ALCOHOL, AND DIPHENHYDRAMINE TOXICITY",Drug,Non,Drug,Suicide
+831,2015-S8,WCME_1066,USA,Nose,Female,White,55,48-57,43-67,53-88,Indoors,Spring,Less48,25-48,14,Underweight,Suicide,WCME_1066,"ACETAMINOPHEN, ALCOHOL, AND DIPHENHYDRAMINE TOXICITY",Drug,Non,Drug,Suicide
+832,2015-S8,WCME_1205,USA,Rectum,Female,White,55,48-57,43-67,53-88,Indoors,Spring,Less48,25-48,14,Underweight,Suicide,WCME_1205,"ACETAMINOPHEN, ALCOHOL, AND DIPHENHYDRAMINE TOXICITY",Drug,Non,Drug,Suicide
+833,2015-S8,WCME_1162,USA,Mouth,Female,White,55,48-57,43-67,53-88,Indoors,Spring,Less48,25-48,14,Underweight,Suicide,WCME_1162,"ACETAMINOPHEN, ALCOHOL, AND DIPHENHYDRAMINE TOXICITY",Drug,Non,Drug,Suicide
+712,2015-S555,WCME_1099,USA,Mouth,Male,White,57,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,23,Normal Weight,Suicide,WCME_1099,"ALPRAZOLAM, CODEINE, HYDROCODONE, AND ZOLPIDEM TOXICITY",Drug,Non,Drug,Suicide
+713,2015-S555,WCME_1277,USA,Ears,Male,White,57,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,23,Normal Weight,Suicide,WCME_1277,"ALPRAZOLAM, CODEINE, HYDROCODONE, AND ZOLPIDEM TOXICITY",Drug,Non,Drug,Suicide
+714,2015-S555,WCME_1103,USA,Eyes,Male,White,57,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,23,Normal Weight,Suicide,WCME_1103,"ALPRAZOLAM, CODEINE, HYDROCODONE, AND ZOLPIDEM TOXICITY",Drug,Non,Drug,Suicide
+715,2015-S555,WCME_1001,USA,Nose,Male,White,57,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,23,Normal Weight,Suicide,WCME_1001,"ALPRAZOLAM, CODEINE, HYDROCODONE, AND ZOLPIDEM TOXICITY",Drug,Non,Drug,Suicide
+704,2015-S55,WCME_1214,USA,Eyes,Female,White,79,78-87,68-92,53-88,Indoors,Spring,Less48,25-48,32.3,Obese,Suicide,WCME_1214,hydrocodone toxicity,Drug,Non,Drug,Suicide
+705,2015-S55,WCME_1417,USA,Ears,Female,White,79,78-87,68-92,53-88,Indoors,Spring,Less48,25-48,32.3,Obese,Suicide,WCME_1417,hydrocodone toxicity,Drug,Non,Drug,Suicide
+706,2015-S55,WCME_1196,USA,Mouth,Female,White,79,78-87,68-92,53-88,Indoors,Spring,Less48,25-48,32.3,Obese,Suicide,WCME_1196,hydrocodone toxicity,Drug,Non,Drug,Suicide
+257,2014-S6,WCME_28,USA,Mouth,Male,White,30,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,32.4,Obese,Suicide,WCME_28,INTRAORAL GUNSHOT WOUND ,Gunshot,Violent,Gunshot,Suicide
+258,2014-S6,WCME_24,USA,Ears,Male,White,30,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,32.4,Obese,Suicide,WCME_24,INTRAORAL GUNSHOT WOUND ,Gunshot,Violent,Gunshot,Suicide
+259,2014-S6,WCME_26,USA,Eyes,Male,White,30,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,32.4,Obese,Suicide,WCME_26,INTRAORAL GUNSHOT WOUND ,Gunshot,Violent,Gunshot,Suicide
+260,2014-S6,WCME_25,USA,Rectum,Male,White,30,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,32.4,Obese,Suicide,WCME_25,INTRAORAL GUNSHOT WOUND ,Gunshot,Violent,Gunshot,Suicide
+261,2014-S6,WCME_27,USA,Nose,Male,White,30,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,32.4,Obese,Suicide,WCME_27,INTRAORAL GUNSHOT WOUND ,Gunshot,Violent,Gunshot,Suicide
+50,2014-S121,WCME_931,USA,Ears,Male,White,34,28-37,18-42,18-52,Indoors,Summer,Less48,Less24,26.5,Overweight,Suicide,WCME_931,SHOTGUN WOUND TO THE HEAD,Gunshot,Violent,Gunshot,Suicide
+51,2014-S121,WCME_933,USA,Eyes,Male,White,34,28-37,18-42,18-52,Indoors,Summer,Less48,Less24,26.5,Overweight,Suicide,WCME_933,SHOTGUN WOUND TO THE HEAD,Gunshot,Violent,Gunshot,Suicide
+52,2014-S121,WCME_935,USA,Nose,Male,White,34,28-37,18-42,18-52,Indoors,Summer,Less48,Less24,26.5,Overweight,Suicide,WCME_935,SHOTGUN WOUND TO THE HEAD,Gunshot,Violent,Gunshot,Suicide
+53,2014-S121,WCME_936,USA,Mouth,Male,White,34,28-37,18-42,18-52,Indoors,Summer,Less48,Less24,26.5,Overweight,Suicide,WCME_936,SHOTGUN WOUND TO THE HEAD,Gunshot,Violent,Gunshot,Suicide
+54,2014-S121,WCME_932,USA,Rectum,Male,White,34,28-37,18-42,18-52,Indoors,Summer,Less48,Less24,26.5,Overweight,Suicide,WCME_932,SHOTGUN WOUND TO THE HEAD,Gunshot,Violent,Gunshot,Suicide
+307,2014-S82,WCME_348,USA,Mouth,Female,White,42,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,15.6,Underweight,Suicide,WCME_348,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Suicide
+308,2014-S82,WCME_346,USA,Eyes,Female,White,42,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,15.6,Underweight,Suicide,WCME_346,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Suicide
+309,2014-S82,WCME_347,USA,Nose,Female,White,42,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,15.6,Underweight,Suicide,WCME_347,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Suicide
+310,2014-S82,WCME_344,USA,Ears,Female,White,42,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,15.6,Underweight,Suicide,WCME_344,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Suicide
+311,2014-S82,WCME_345,USA,Rectum,Female,White,42,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,15.6,Underweight,Suicide,WCME_345,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot,Suicide
+252,2014-S59,WCME_283,USA,Ears,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,29.8,Overweight,Suicide,WCME_283,GUNSHOT TO HEAD ,Gunshot,Violent,Gunshot,Suicide
+253,2014-S59,WCME_285,USA,Eyes,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,29.8,Overweight,Suicide,WCME_285,GUNSHOT TO HEAD ,Gunshot,Violent,Gunshot,Suicide
+254,2014-S59,WCME_286,USA,Nose,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,29.8,Overweight,Suicide,WCME_286,GUNSHOT TO HEAD ,Gunshot,Violent,Gunshot,Suicide
+255,2014-S59,WCME_284,USA,Rectum,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,29.8,Overweight,Suicide,WCME_284,GUNSHOT TO HEAD ,Gunshot,Violent,Gunshot,Suicide
+256,2014-S59,WCME_287,USA,Mouth,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,29.8,Overweight,Suicide,WCME_287,GUNSHOT TO HEAD ,Gunshot,Violent,Gunshot,Suicide
