@@ -1,0 +1,44 @@
+Pack_ID,SampleID,Country,Sample_Area,Sex,Race,Age,Age_bin_10,Age_bin_25,Age_bin_35,Event_Location,Season,BroadPMI,FinePMI,BMI,Weight_Status,MoD,Suicide,Description,Causes_of_Death,CoD_Simple,Violent,CoD_Simple2
+2015-S574,WCME_1020,USA,Nose,Female,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,25-48,25.2,Overweight,Accident,Not,WCME_207,COCAINE TOXICITY,Drug,Non,Drug
+2015-S598,WCME_1000,USA,Nose,Male,White,20,18-27,18-42,18-52,Indoors,Spring,Less48,Less24,21.9,Normal Weight,Accident,Not,WCME_910,MULTIPLE DRUG TOXICITY,Drug,Non,Drug
+2015-S136,WCME_944,USA,Nose,Male,White,28,28-37,18-42,18-52,Indoors,Spring,Less48,Less24,21.7,Normal Weight,Accident,Not,WCME_747,HEROIN TOXICITY,Drug,Non,Drug
+2015-S156,WCME_1229,USA,Nose,Male,White,31,28-37,18-42,18-52,Indoors,Summer,Less48,25-48,28.5,Overweight,Accident,Not,WCME_388,HEROIN TOXICITY,Drug,Non,Drug
+2015-S443,WCME_1073,USA,Nose,Male,White,31,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,31,Obese,Accident,Not,WCME_638,MULTIPLE DRUG TOXICITY,Drug,Non,Drug
+2015-S3,WCME_1090,USA,Nose,Male,White,33,28-37,18-42,18-52,Indoors,Summer,Less48,25-48,27.5,Overweight,Accident,Not,WCME_490,HEROIN TOXICITY,Drug,Non,Drug
+2015-S211,WCME_1290,USA,Nose,Male,White,36,28-37,18-42,18-52,Indoors,Winter,Less48,25-48,20.5,Normal Weight,Accident,Not,WCME_521,MULTIPLE DRUG TOXICITY,Drug,Non,Drug
+2015-S487,WCME_1064,USA,Nose,Female,White,61,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,40.2,Morbid Obesity,Accident,Not,WCME_409,HYDROCODONE ,Drug,Non,Drug
+2015-S378,WCME_1252,USA,Nose,Male,White,65,58-67,43-67,53-88,Indoors,Summer,Less48,25-48,27.6,Overweight,Accident,Not,WCME_456,"AMPHETAMINE, HEROIN, QUETIAPINE ",Drug,Non,Drug
+2015-S484,WCME_960,USA,Nose,Female,Black,43,38-47,43-67,18-52,Indoors,Summer,Less48,Less24,26.4,Overweight,Homicide,Not,WCME_960,MULTIPLE SHARP FORCE INJURIES,Other,Violent,BFT
+2015-S340,WCME_1047,USA,Nose,Female,Black,24,18-27,18-42,18-52,Hospital,Spring,Less48,Less24,27,Overweight,Natural,Not,WCME_786,PERIPARTUM DILATED CARDIOMYOPATHY,Cardio,Non,Cardio
+2015-S92,WCME_786,USA,Nose,Female,White,42,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,35.3,Severe Obesity,Natural,Not,WCME_442,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio
+2014-S119,WCME_442,USA,Nose,Female,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,45.8,Morbid Obesity,Natural,Not,WCME_9,HYPERTROPHIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio
+2014-S2,WCME_9,USA,Nose,Female,White,44,38-47,43-67,18-52,Indoors,Spring,Less48,Less24,44.1,Morbid Obesity,Natural,Not,WCME_187,ACUTE MYOCARDIAL INFARCTION,Cardio,Non,Cardio
+2014-S40,WCME_187,USA,Nose,Male,White,48,48-57,43-67,18-52,Indoors,Spring,Less48,Less24,34,Obese,Natural,Not,WCME_235,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio
+2014-S51,WCME_235,USA,Nose,Female,White,54,48-57,43-67,53-88,Indoors,Spring,Less48,Less24,32.8,Obese,Natural,Not,WCME_995,HYPERTENSIVE CARDIOVASCULAR DISEASE,Cardio,Non,Cardio
+2015-S219,WCME_995,USA,Nose,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,25-48,18.5,Normal Weight,Natural,Not,WCME_122,ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE ,Cardio,Non,Cardio
+2014-S25,WCME_122,USA,Nose,Male,White,62,58-67,43-67,53-88,Hospital,Spring,Less48,25-48,32.1,Obese,Natural,Not,WCME_693,HYPERTENSIVE AND ARTERIOSCLEROTIC CARDIOVASCULAR DISEASE,Cardio,Non,Cardio
+2015-S65,WCME_693,USA,Nose,Female,White,71,68-77,68-92,53-88,Indoors,Spring,Less48,Less24,NA,Unknown,Natural,Not,WCME_128,ACUTE RESPIRATORY FAILURE -MULTI ORGAN FAILURE -SHOCK-ATRIAL FLUTTER,Other,Non,Cardio
+2014-S27,WCME_128,USA,Nose,Female,Black,42,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,43.3,Morbid Obesity,Natural,Not,WCME_1033,PULMONARY EMBOLISM OF UNKNOWN ORIGIN,Other,Non,Other
+2014-S43,WCME_207,USA,Nose,Male,White,55,48-57,43-67,53-88,Indoors,Spring,Less48,25-48,26.9,Overweight,Natural,Not,WCME_110,PULMONARY ADENOCARCINOMA ,Other,Non,Other
+2015-S209,WCME_910,USA,Nose,Male,White,19,18-27,18-42,18-52,Outdoors,Winter,Less48,Less24,23.1,Normal Weight,Suicide,Suicide,WCME_1020,HANGING,Other,Violent,Asphyx
+2014-S94,WCME_928,USA,Nose,Female,White,21,18-27,18-42,18-52,Vehicular,Winter,Less48,Less24,25.9,Overweight,Suicide,Suicide,WCME_1000,DROWNING,Other,Violent,Asphyx
+2015-S79,WCME_747,USA,Nose,Male,White,29,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,19.9,Normal Weight,Suicide,Suicide,WCME_944,HANGING,Other,Violent,Asphyx
+2014-S91,WCME_388,USA,Nose,Female,White,41,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,18.6,Normal Weight,Suicide,Suicide,WCME_1229,HANGING,Other,Violent,Asphyx
+2015-S44,WCME_638,USA,Nose,Male,White,46,38-47,43-67,18-52,Indoors,Winter,Less48,Less24,34.7,Obese,Suicide,Suicide,WCME_1073,HANGING,Other,Violent,Asphyx
+2015-S579,WCME_953,USA,Nose,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,26.5,Overweight,Suicide,Suicide,WCME_1090,HANGING,Other,Violent,Asphyx
+2014-S147,WCME_490,USA,Nose,Male,Black,62,58-67,43-67,53-88,Outdoors,Spring,Less48,25-48,24.8,Normal Weight,Suicide,Suicide,WCME_1290,DROWNING,Other,Violent,Asphyx
+2015-S13,WCME_521,USA,Nose,Male,White,63,58-67,43-67,53-88,Indoors,Summer,More48,49-72,24.4,Normal Weight,Suicide,Suicide,WCME_1064,CARBON MONOXIDE TOXICITY,Other,Non,Asphyx
+2015-S425,WCME_1208,USA,Nose,Male,White,64,58-67,43-67,53-88,Indoors,Summer,Less48,Less24,29,Overweight,Suicide,Suicide,WCME_1252,ASPHYXIATION - HELIUM,Other,Non,Asphyx
+2015-S47,WCME_976,USA,Nose,Male,White,55,48-57,43-67,53-88,Outdoors,Autumn,Less48,Less24,30.7,Obese,Suicide,Suicide,WCME_1047,MULTIPLE INJURIES,Other,Violent,BFT
+2015-S201,WCME_1087,USA,Nose,Female,Black,26,18-27,18-42,18-52,Indoors,Summer,Less48,25-48,35.6,Severe Obesity,Suicide,Suicide,WCME_928,ACUTE CODEINE INTOXICATION,Drug,Non,Drug
+2015-S64,WCME_941,USA,Nose,Male,White,31,28-37,18-42,18-52,Hospital,Winter,Less48,Less24,33.5,Obese,Suicide,Suicide,WCME_953,ACETAMINOPHEN TOXICITY,Drug,Non,Drug
+2015-S8,WCME_1066,USA,Nose,Male,White,36,28-37,18-42,18-52,Indoors,Autumn,Less48,Less24,31.5,Obese,Suicide,Suicide,WCME_1208,DOXEPIN TOXICITY,Drug,Non,Drug
+2015-S555,WCME_1001,USA,Nose,Female,Black,39,38-47,18-42,18-52,Indoors,Spring,Less48,25-48,39.8,Severe Obesity,Suicide,Suicide,WCME_976,clonidine toxicity,Drug,Non,Drug
+2014-S110,WCME_409,USA,Nose,Female,White,42,38-47,18-42,18-52,Indoors,Spring,Less48,Less24,22.5,Normal Weight,Suicide,Suicide,WCME_1087,AMITRYPTILINE AND NORTRYPTILINE INTOXICATION,Drug,Non,Drug
+2014-S132,WCME_456,USA,Nose,Female,White,45,38-47,43-67,18-52,Indoors,Spring,More48,49-72,31.8,Obese,Suicide,Suicide,WCME_941,MULTIPLE DRUG TOXICITY,Drug,Non,Drug
+2014-S6,WCME_27,USA,Nose,Female,White,55,48-57,43-67,53-88,Indoors,Spring,Less48,25-48,14,Underweight,Suicide,Suicide,WCME_1066,"ACETAMINOPHEN, ALCOHOL, AND DIPHENHYDRAMINE TOXICITY",Drug,Non,Drug
+2014-S121,WCME_935,USA,Nose,Male,White,57,48-57,43-67,53-88,Indoors,Winter,Less48,Less24,23,Normal Weight,Suicide,Suicide,WCME_1001,"ALPRAZOLAM, CODEINE, HYDROCODONE, AND ZOLPIDEM TOXICITY",Drug,Non,Drug
+2014-S82,WCME_347,USA,Nose,Male,White,30,28-37,18-42,18-52,Indoors,Spring,Less48,25-48,32.4,Obese,Suicide,Suicide,WCME_27,INTRAORAL GUNSHOT WOUND ,Gunshot,Violent,Gunshot
+2014-S59,WCME_286,USA,Nose,Male,White,34,28-37,18-42,18-52,Indoors,Summer,Less48,Less24,26.5,Overweight,Suicide,Suicide,WCME_935,SHOTGUN WOUND TO THE HEAD,Gunshot,Violent,Gunshot
+2015-S137,WCME_1033,USA,Nose,Female,White,42,38-47,18-42,18-52,Indoors,Summer,Less48,25-48,15.6,Underweight,Suicide,Suicide,WCME_347,GUNSHOT WOUND TO HEAD,Gunshot,Violent,Gunshot
+2014-S22,WCME_110,USA,Nose,Female,White,58,58-67,43-67,53-88,Indoors,Spring,Less48,Less24,29.8,Overweight,Suicide,Suicide,WCME_286,GUNSHOT TO HEAD ,Gunshot,Violent,Gunshot
